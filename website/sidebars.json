@@ -1,10 +1,11 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
+    "Introduction": ["intro1"],
+    "Adjectif": ["adjectif1", "adjectif2", "adjectif3", "adjectif4", "adjectif5", "adjectif6", "adjectif7"],
+    "Substantif": ["doc4"],
+    "Verbe": ["doc3"]
   },
   "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    
   }
 }

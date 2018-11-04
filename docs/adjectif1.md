@@ -1,7 +1,6 @@
 ---
-id: doc1
-title: Latin-ish
-sidebar_label: Example Page
+id: adjectif1
+title: L'adjectif qualificatif
 ---
 
 ## test test test
