@@ -18,6 +18,14 @@ Elle n’est _jamais_ précédée d’un _article_.
 
 Elle est _invariable_ :
 
+| L'homme est                      | intelligent  | קלוג |   דער מאַן איז   |
+|----------------------------------|--------------|------|:---------------:|
+| La femme est                     | intelligente | קלוג | די פֿרוי איז     |
+| L'enfant (neutre en Yiddish) est | intelligent  | קלוג | דאָס קינד איז    |
+| Les enfants sont                 | intelligents | קלוג | די קינדער זײַנען |
+
+
+
 **Remarque.** **La forme de base de l’adjectif** devient **adverbe** lorsqu’elle se rapporte à un verbe.
 
 ## LA FORME DÉCLINÉE/FORME LONGUE
@@ -43,9 +51,9 @@ Elle est généralement  précédée d’un article, défini ou indéfini, ou de
 
 Lorsque plusieurs adjectifs qualifient un nom, seul le 1er est précédé d’un article :
 
-_.אַ/דער גוטער, קלוגער און פֿרומער מאַן_
-
- _Un/L’homme bon, intelligent et pieux._
+>_.אַ / דער גוטער, קלוגער און פֿרומער מאַן_
+<br>
+_Un / L’homme bon, intelligent et pieux._
 
 L’adjectif épithète peut se placer **avant** le nom, le plus souvent, ou **après** le nom.
 
@@ -164,9 +172,13 @@ On intercale un **– ע** à toutes les formes déclinées (sauf au neutre ind�
 
 Il en est de même pour les adjectifs des points  2. 3.  4. ci-dessous.
 
-**2. Les participes peuvent être employés comme adjectifs** : ils s’accordent et se déclinent ; ils peuvent être placés avant ou après le substantif :
+### Participes employés comme adjectifs
 
-**a)** **participes passés** :  _la mère est exténuée_די מוטער איז פֿאַרמאַטערט
+Les participes peuvent être employés comme adjectifs : ils s’accordent et se déclinent. Ils peuvent être placés avant ou après le substantif :
+
+**a)** **participes passés** :  
+_la mère est exténuée_
+די מוטער איז פֿאַרמאַטערט
 
 דער / אַ פֿאַרמאַטערט**ער** מאַן די / אַ פֿאַרמאַטערט**ע** פֿרוי
 
@@ -194,7 +206,10 @@ Le verbe **זײַן** a 2 participes : **געווען / געוועזן** . Seul 
 
 דאָס שלאָפֿנדיק**ע** קינד _l’enfant endormi_ (_dormant_) ,  אַ זינגענדיק פֿייגעלע_un oiseau chantant_ ......
 
-**3. Les adjectifs formés à partir de noms de matières** (voir suffixes adjectivaux.  p.25-26)
+
+### Les adjectifs formés à partir de noms de matières
+
+(voir suffixes adjectivaux.  p.25-26)
 
 Pour former ces adjectifs :
 
@@ -232,7 +247,9 @@ Mais on ne peut dire איז זײַדן  דער מאַנטל איז וואָלן,
 
 On dira דאָס קלײַד איז פֿון זײַד דער מאַנטל איז פֿון וואָל, די פֿאַן איז פֿון קופּער,
 
-**4. Les adjectifs dont la forme de base se termine en** **– ע**  (נודנ**ע**, טשיקאַוו**ע**... )  **:**
+### Adjectifs terminés par ע-
+
+Les adjectifs dont la forme de base se termine en** **– ע**  (נודנ**ע**, טשיקאַוו**ע**... )  **:**
 
 <![if !supportLists]>**a)** <![endif]>**au nominatif** masculin et datif féminin on ajoute seulement **– ר**
 
@@ -256,7 +273,9 @@ On dira דאָס קלײַד איז פֿון זײַד דער מאַנטל איז 
 
 _Qu’a-t-il à regarder avec ce visage d’abruti ?_
 
-**5. Les adjectifs formés à partir de noms de villes ou de pays** par ajout du suffixe :
+### Adjectifs formés à partir de noms de villes et de pays
+
+Les adjectifs formés à partir de noms de villes ou de pays par ajout du suffixe :
 
 - **ער**  פּאַריז =>  פּאַריז**ער**  ניו־יאָרק = ניו-יאָרק**ער**
 
@@ -280,7 +299,7 @@ Pour former le substantif féminin on ajoute généralement le suffixe **– י�
 
 אַמע**׳**ריקע  => אַמעריקאַ**׳**נער ,  אַמעריקאַ**׳**נערין  אַ**׳**פֿריקע => אַפֿריקאַ**׳**נער
 
-**6. quelques adjectifs particuliers :**
+### Quelques adjectifs particuliers
 
 **a)** **L’adjectif** **אַנדער**  (autre, l’un ou l’autre)
 
@@ -450,11 +469,7 @@ Mais une précision supplémentaire peut inverser la signification :
 
 [voir suffixes des adjectifs **–  לעך** **(**p.26**)** et – **יטשקע ,  – ינקע, טשינקע** (p. 28)]
 
-TABLEAU RECAPITULATIF
-
-ADJECTIFS PLACES
-
-**AVANT** LE NOM **SINGULIER**
+## TABLEAU RECAPITULATIF: ADJECTIFS PLACES **AVANT** LE NOM **SINGULIER**
 
 NEUTRE
 
@@ -538,11 +553,7 @@ MASCULIN
 
 **  représente les adjectifs se terminant par une voyelle ou diphtongue sauf נײַ
 
-TABLEAU RECAPITULATIF
-
-ADJECTIFS PLACES
-
-**APRES** LE NOM **SINGULIER**
+## TABLEAU RECAPITULATIF ADJECTIFS PLACES **APRES** LE NOM **SINGULIER**
 
 NEUTRE
 

@@ -39,8 +39,7 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: 'intro1', label: 'Grammaire'},
-    {doc: 'doc4', label: 'À propos'},
-    {page: 'help', label: 'Help'}
+    {page: 'help', label: 'À propos'}
     /* {blog: false, label: 'Blog'}, */
   ],
 
@@ -59,18 +58,16 @@ const siteConfig = {
   },
 
   /* Custom fonts for website */
-  /*
+  
   fonts: {
     myFont: [
       "Times New Roman",
       "Serif"
     ],
     myOtherFont: [
-      "-apple-system",
-      "system-ui"
     ]
   },
-  */
+  
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
   copyright: `Copyright © ${new Date().getFullYear()} Aron Waldman, Maison de la culture yiddish`,
@@ -82,6 +79,13 @@ const siteConfig = {
 
   // Add custom scripts here that would be placed in <script> tags.
   scripts: ['https://buttons.github.io/buttons.js'],
+
+  stylesheets: ['https://fonts.googleapis.com/css?family=Open+Sans:400,400i', 
+  {
+    href: 'https://fonts.googleapis.com/css?family=Open+Sans:400,400i',
+    type: 'text/css',
+  }
+  ],
 
   // On page navigation for the current documentation page.
   onPageNav: 'separate',
