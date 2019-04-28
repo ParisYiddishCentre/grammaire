@@ -1,4 +1,8 @@
 # grammaire
 grammaire yiddish/Yiddish grammar
 
-made with Docusaurus
+www.grammaire.yiddishweb.com
+
+website for a grammar of the Yiddish language, built with Docusaurus
+
+Docusaurus documentation available at: https://docusaurus.io/
