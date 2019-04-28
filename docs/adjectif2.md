@@ -1,6 +1,6 @@
 ---
 id: adjectif2
-title: Les degrés de l'adjectif (comparatif et superlatif)
+title: Les degrés de l'adjectif
 ---
 
 Une des caractéristiques de l’adjectif est d’avoir des degrés de comparaison. Le **comparatif** sert à établir une comparaison _entre deux éléments_ (plus grand, plus fort que), et le **superlatif** sert à exprimer le degré extrême d’une qualité, exprimée par l’adjectif, _par_ _rapport à un ensemble_ (le plus grand, le plus fort).

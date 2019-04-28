@@ -22,8 +22,10 @@ const users = [
 
 const siteConfig = {
   title: 'Grammaire de la langue yiddish', // Title for your website.
+  yiddishTitle: 'גראַמאַטיק פֿון דער ייִדישער שפּראַך',
+  yiddishTagline: 'צונויפֿגעשטעלט דורך אַהרן וואַלדמאַן',
   tagline: 'par Aron Waldman',
-  url: 'https://grammaire.yiddishweb.com', // Your website URL
+  url: 'https://grammaire.yiddish.paris', // Your website URL
   baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
@@ -39,7 +41,8 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: 'intro1', label: 'Grammaire'},
-    {page: 'help', label: 'À propos'}
+    {doc: 'apropos', label: 'À propos'},
+    {search: true}
     /* {blog: false, label: 'Blog'}, */
   ],
 
@@ -47,8 +50,8 @@ const siteConfig = {
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/docusaurus.svg',
-  footerIcon: 'img/docusaurus.svg',
+  headerIcon: 'img/mcylogo.png',
+  footerIcon: 'img/mcylogo.png',
   favicon: 'img/favicon.png',
 
   /* Colors for website */
@@ -80,9 +83,17 @@ const siteConfig = {
   // Add custom scripts here that would be placed in <script> tags.
   scripts: ['https://buttons.github.io/buttons.js'],
 
-  stylesheets: ['https://fonts.googleapis.com/css?family=Open+Sans:400,400i', 
+  stylesheets: [ 
   {
     href: 'https://fonts.googleapis.com/css?family=Open+Sans:400,400i',
+    type: 'text/css',
+  },
+  {
+    href: 'https://fonts.googleapis.com/css?family=Noto+Sans:400,400i,700,700i',
+    type: 'text/css',
+  },
+  {
+    href: 'https://fonts.googleapis.com/earlyaccess/notosanshebrew.css',
     type: 'text/css',
   }
   ],
@@ -99,6 +110,21 @@ const siteConfig = {
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
   //   repoUrl: 'https://github.com/facebook/test-site',
+
+  scrollToTop: true,
+  scrollToTopOptions: {
+    zIndex: 100,
+  },
+
+  docsSideNavCollapsible: true,
+
+  algolia: {
+    apiKey: '25626fae796133dc1e734c6bcaaeac3c',
+    indexName: 'docsearch',
+    placeholder: 'Rechercher'
+  }
 };
+
+  
 
 module.exports = siteConfig;

@@ -18,11 +18,32 @@ Elle n’est _jamais_ précédée d’un _article_.
 
 Elle est _invariable_ :
 
-| L'homme est                      | intelligent  | קלוג |   דער מאַן איז   |
-|----------------------------------|--------------|------|:---------------:|
-| La femme est                     | intelligente | קלוג | די פֿרוי איז     |
-| L'enfant (neutre en Yiddish) est | intelligent  | קלוג | דאָס קינד איז    |
-| Les enfants sont                 | intelligents | קלוג | די קינדער זײַנען |
+<table>
+  <tr>
+    <td>L'homme est</td>
+    <td>intelligent</td>
+    <td>קלוג</td>
+    <td class="table-cell-right">דער מאַן איז</td>
+  </tr>
+  <tr>
+    <td>La femme est</td>
+    <td>intelligente</td>
+    <td>קלוג</td>
+    <td class="table-cell-right">די פֿרוי איז</td>
+  </tr>
+  <tr>
+    <td>L'enfant (neutre en Yiddish) est</td>
+    <td>intelligent</td>
+    <td>קלוג</td>
+    <td class="table-cell-right">דאָס קינד איז</td>
+  </tr>
+  <tr>
+    <td>Les enfants sont</td>
+    <td>intelligents</td>
+    <td>קלוג</td>
+    <td class="table-cell-right">די קינדער זײַנען</td>
+  </tr>
+</table>
 
 
 
@@ -54,6 +75,8 @@ Lorsque plusieurs adjectifs qualifient un nom, seul le 1er est précédé d’un
 >_.אַ / דער גוטער, קלוגער און פֿרומער מאַן_
 <br>
 _Un / L’homme bon, intelligent et pieux._
+
+
 
 L’adjectif épithète peut se placer **avant** le nom, le plus souvent, ou **après** le nom.
 

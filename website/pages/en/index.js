@@ -58,10 +58,16 @@ const Logo = props => (
 );
 
 const ProjectTitle = () => (
+  <div>
   <h2 className="projectTitle">
     {siteConfig.title}
     <small>{siteConfig.tagline}</small>
   </h2>
+  <h2 className="projectTitle">
+    {siteConfig.yiddishTitle}
+    <small>{siteConfig.yiddishTagline}</small>
+  </h2>
+  </div>
 );
 
 const PromoSection = props => (
@@ -77,13 +83,12 @@ class HomeSplash extends React.Component {
     const language = this.props.language || '';
     return (
       <SplashContainer>
-        {/* <Logo img_src={imgUrl('docusaurus.svg')} /> */}
         <div className="inner">
           <ProjectTitle />
           <PromoSection>
             {/* <Button href="#try">Try It Out</Button> */}
             <Button href={docUrl('intro1.html', language)}>Lire</Button>
-            <Button href={docUrl('doc2.html', language)}>À propos</Button>
+            <Button href={docUrl('apropos.html', language)}>À propos</Button>
           </PromoSection>
         </div>
       </SplashContainer>
@@ -100,11 +105,11 @@ const Block = props => (
   </Container>
 );
 
-const Features = () => (
-  <Block layout="fourColumn">
+/* const Features = () => (
+  <Block background="light" layout="fourColumn">
     {[
       {
-        content: 'This is the content of my feature bla bla bla',
+        content: 'La Maison de la Culture Yiddish publie ici le travail par lequel Aaron Waldman, enseignant chevronné et féru de grammaire, a entrepris de présenter les principaux sujets de la grammaire yiddish de manière accessible pour l’étudiant et l’amateur francophones. Il a particulièrement fait attention à restreindre l’usage de termes techniques et a rendre proches ceux, qu’il a tout-de-même utilisés.',
         image: imgUrl('docusaurus.svg'),
         imageAlign: 'top',
         title: 'Feature One',
@@ -117,14 +122,30 @@ const Features = () => (
       },
     ]}
   </Block>
-);
+); */
 
 const FeatureCallout = () => (
   <div
-    className="productShowcaseSection paddingBottom"
+    className="productShowcaseSection"
     style={{textAlign: 'center'}}>
-    <h2>Feature Callout</h2>
-    <MarkdownBlock>These are features of this project</MarkdownBlock>
+    {/* <MarkdownBlock>These are features of this project</MarkdownBlock> */}
+    <div className="" style={{textAlign: 'center', fontWeight: 'bold'}}>
+    <p>La Maison de la Culture Yiddish publie ici le travail par lequel Aaron Waldman, 
+      enseignant chevronné et féru de grammaire, a entrepris de présenter les principaux sujets de la 
+      grammaire yiddish de manière accessible pour l’étudiant et l’amateur francophones. Il a particulièrement 
+      fait attention à restreindre l’usage de termes techniques et a rendre proches ceux, qu’il a tout-de-même 
+      utilisés.</p>
+      <p>Ces matériaux répondent à un véritable besoin et rendront certainement grand service aux étudiants pas 
+        moins qu’aux enseignants.</p>
+      <p><i>Yitskhok Niborski</i></p>
+      </div>
+      <div style={{textAlign: 'center'}} className="separator"></div>
+    <div className="rtl" style={{textAlign: 'center', fontWeight: 'bold'}}>
+      <p>דער פּאַריזער ייִדיש־צענטער ברענגט צו דער עפֿנטלעכקייט די אַרבעט פֿון אַהרן וואַלדמאַן, אַן איבערגעגעבענעם ייִדיש־לערער מיט אַ באַזונדערער ליבשאַפֿט צו גראַמאַטיק, וואָס האָט זיך אונטערגענומען צו באַשרײַבן אַלע וויכטיקערע אַספּעקטן פֿון דער ייִדישער גראַמאַטיק אויף אַזאַ אופֿן, אַז זיי זאָלן זײַן צוטריטלעך פֿאַרן פֿראַנצייזיש־רעדנדיקן תּלמיד און ליבהאָבער פֿון דער שפּראַך. ער האָט זיך באַזונדערש געסטאַרעט צו באַניצן וואָס ווייניקער לינגוויסטישע טערמינאָלאָגיע און קלאָר אויסצוטײַטשן יענע טערמינען צו וועלכע ער איז פֿאָרט אָנגעקומען.</p>
+      <p dir="rtl">די דאָזיקע מאַטעריאַלן פֿילן אויס אַ וויכטיקן בלויז און וועלן זיכער צו ניץ קומען סײַ יעדן לערנער, סײַ יעדן לערער.</p>
+      <p><i>יצחק ניבאָרסקי</i></p>
+    </div>
+    
   </div>
 );
 
@@ -200,10 +221,10 @@ class Index extends React.Component {
       <div>
         <HomeSplash language={language} />
         <div className="mainContainer">
-          <Features />
+          {/* <Features /> */}
           <FeatureCallout />
-          <LearnHow /> 
-          <TryOut />
+          {/* <LearnHow />  */}
+          {/* <TryOut /> */}
           {/* <Description /> */}
           {/* <Showcase language={language} /> */}
         </div>

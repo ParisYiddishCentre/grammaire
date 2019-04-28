@@ -1,6 +1,5 @@
 /* your custom css */
 
-
 @media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
 }
 
@@ -20,12 +19,40 @@
     padding-top: 0;
 }
 
-html {
+/* html {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
-  }
+  } */
 
-  body {
+/* body {
     font-family: -apple-system, BlinkMacSystemFont, 'Open Sans', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 
     'Segoe UI Emoji', 'Segoe UI Symbol' !important;
+} */
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans', 'Noto Sans Hebrew', Helvetica, Arial, sans-serif, 'Apple Color Emoji', 
+    'Segoe UI Emoji', 'Segoe UI Symbol' !important;
+}
+
+.table-cell-right {
+    text-align: right;
+}
+
+.row {
+    display: flex;
+  }
+  
+.column {
+    flex: 50%;
+  }
+
+.rtl {
+    direction: rtl !important;
+}
+
+.separator {
+    height: 2px;
+    background-color: #cc1f3d;
+    width: 30%;
+    margin: 15px auto
 }
