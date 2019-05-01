@@ -10,9 +10,9 @@ L’adjectif a en général deux formes selon sa fonction :
 
 **Remarque.** Les exceptions à cette règle seront signalées.
 
-## LA FORME DE BASE/FORME COURTE
+## LA FORME DE BASE (FORME COURTE)
 
-Elle est utilisée **comme attribut**, lorsqu’elle  se rapporte à un nom  (ou un pronom) auquel elle est reliée par le verbe **זײַן** ou un autre verbe d’état : בלײַבן, אויסזען, אויסקוקן (_paraître,_ _sembler_, _rester_…)
+Elle est utilisée **comme attribut**, lorsqu’elle  se rapporte à un nom  (ou un pronom) auquel elle est reliée par le verbe **זײַן** ou un autre verbe d’état : בלײַבן, אויסזען, אויסקוקן (_paraître,_ _sembler_, _rester_).
 
 Elle n’est _jamais_ précédée d’un _article_.
 
@@ -47,17 +47,17 @@ Elle est _invariable_ :
 
 
 
-**Remarque.** **La forme de base de l’adjectif** devient **adverbe** lorsqu’elle se rapporte à un verbe.
+**Remarque. La forme de base de l’adjectif** devient **adverbe** lorsqu’elle se rapporte à un verbe.
 
-## LA FORME DÉCLINÉE/FORME LONGUE
+## LA FORME DÉCLINÉE (FORME LONGUE)
 
-Elle est formée par _l’ajout de suffixes à la forme de base_.
+Elle est formée par **l’ajout de suffixes à la forme de base**.
 
 Au singulier ces suffixes permettent :
 
-- _d’accorder_ l’adjectif en **genre** avec le nom auquel il se rapporte : nom  masculin, féminin, neutre et
+- d’accorder l’adjectif en **genre** avec le nom auquel il se rapporte : nom  masculin, féminin ou neutre,
 
-- _de l’accorder selon_ **les 3 cas** qui correspondent  aux trois fonctions que le nom peut avoir dans la phrase :  
+- de l’accorder selon **les trois cas** qui correspondent  aux trois fonctions que le nom peut avoir dans la phrase :  
   - **le nominatif :** correspond au cas **_sujet_** du verbe ;
 
   - **l’accusatif :** correspond au cas **_complément d’objet direct_** ;
@@ -68,15 +68,13 @@ Au pluriel le même suffixe **ע–** s’ajoute  à tous les genres et tous les
 
 Elle est employée lorsque l’adjectif est **épithète** (placée directement à côté du nom).
 
-Elle est généralement  précédée d’un article, défini ou indéfini, ou de l’adjectif possessif.
+Elle est généralement  précédée d’un article, défini ou indéfini, ou de l’adjectif possessif (voir ch. ["L'adjectif possessif"](adjectif3.md)).
 
 Lorsque plusieurs adjectifs qualifient un nom, seul le 1er est précédé d’un article :
 
->_.אַ / דער גוטער, קלוגער און פֿרומער מאַן_
+>.אַ / דער גוטער, קלוגער און פֿרומער מאַן
 <br>
-_Un / L’homme bon, intelligent et pieux._
-
-
+Un / L’homme bon, intelligent et pieux.
 
 L’adjectif épithète peut se placer **avant** le nom, le plus souvent, ou **après** le nom.
 
@@ -90,38 +88,77 @@ Au neutre, avec l’article indéfini, ou un adjectif possessif, l’adjectif re
 
 **a)** **Au nominatif** on  ajoute à la forme de base le suffixe :
 
-==Insert table==
+<div class="tg-wrap"><table>
+  <tr>
+    <td><span style="font-weight:bold">ער</span></td>
+    <td>---</td>
+    <td>au féminin</td>
+    <td>=&gt;</td>
+    <td><span style="font-weight:bold">גוטער</span> מאַן שרײַבט</td>
+    <td>דער / אַ</td>
+  </tr>
+  <tr>
+    <td>ע</td>
+    <td>---</td>
+    <td>au masculin</td>
+    <td>=&gt;</td>
+    <td><span style="font-weight:bold">גוטע</span> פֿרוי שרײַבט</td>
+    <td>די / אַ</td>
+  </tr>
+  <tr>
+    <td>ע</td>
+    <td>---</td>
+    <td>au neutre défini</td>
+    <td>=&gt;</td>
+    <td><span style="font-weight:bold">גוטע</span> קינד שרײַבט</td>
+    <td>דאָס</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>au neutre indéfini</td>
+    <td>=&gt;</td>
+    <td>גוט קינד שרײַבט</td>
+    <td>אַ</td>
+  </tr>
+</table></div>
 
 À l’indéfini l’adjectif garde sa forme de base.
 
-**b) À l’accusatif**
+**b) À l’accusatif :**
 
-- féminin et neutre : les suffixes sont les mêmes qu’au nominatif : ==Insert table==
-- au masculin : le suffixe de l’accusatif dépend de la dernière lettre de la forme de base. Lorsqu la dernière lettre est : ==Insert table==
+- féminin et neutre : les suffixes sont les mêmes qu’au nominatif : 
+  
+  ==Insert table==
+- au masculin : le suffixe de l’accusatif dépend de la dernière lettre de la forme de base. Lorsque la dernière lettre est : 
 
-**c) Au datif**
+  ==Insert table==
+
+**c) Au datif :**
 
 - au masculin les suffixes sont les mêmes qu’à l’accusatif, ils dépendent de la dernière lettre de la forme de base. Lorsque la dernière lettre est :
+
   ==Insert table==
 
 - au neutre l’utilisation de l’article défini ou indéfini influe sur la terminaison de l’adjectif : 
 
 	- **avec l’article défini** les suffixes sont les mêmes qu’au datif masculin, ils dépendent de la dernière lettre de la forme de base :
 
-איך רעד מיט דעם שטאַרק**ן,** גוט**ן,** גרויס**ן,** פֿרו**מען** און שיי**נעם** ייִנגל
+      .איך רעד מיט דעם שטאַרק**ן,** גוט**ן,** גרויס**ן,** פֿרו**מען** און שיי**נעם** ייִנגל
 
-.איך קוק אויף דעם גרוי**ען** נײַע**ם** בוך
+      .איך קוק אויף דעם גרוי**ען** נײַע**ם** בוך
 
-- **avec l’article indéfini** l’adjectif garde sa forme de base :
+  - **avec l’article indéfini** l’adjectif garde sa forme de base :
 
-איך רעד מיט אַ גרויס און שיין קינד
+    .איך רעד מיט אַ גרויס און שיין קינד
 
-- au féminin  la terminaison est **ער–**
- איך קוק אויף דער גרויס**ער,** שיינ**ער** פֿרוי
+- au féminin  la terminaison est **ער–** :
+  
+  איך קוק אויף דער גרויס**ער,** שיינ**ער** פֿרוי
 
-**d) Au pluriel** : n’existe qu’un seul suffixe **– ע**  valable pour tous les genres et tous les cas :
+**d) Au pluriel** n’existe qu’un seul suffixe **ע–**  valable pour tous les genres et tous les cas :
 
- גרויס**ע** מענער  / פֿרויען  /  קינדער שרײַבן (די)
+ גרויס**ע** מענער  / פֿרויען  /  קינדער שרײַבן 
 
 איך זע  (די) גרויס**ע** מענער  / פֿרויען  /  קינדער
 
@@ -129,77 +166,88 @@ Au neutre, avec l’article indéfini, ou un adjectif possessif, l’adjectif re
 
 ### Adjectif placé après le nom
 
-**L’adjectif décliné peut se placer après le nom** qu’il qualifie (formant une tournure idiomatique caractéristique d’un style narratif ou poétique, fréquent dans la littérature yiddish.) _L’article est alors obligatoirement répété_ avant l’adjectif : 
+**L’adjectif décliné peut se placer après le nom** qu’il qualifie (formant une tournure idiomatique caractéristique d’un style narratif ou poétique, fréquent dans la littérature yiddish.) L’article est alors obligatoirement répété avant l’adjectif :
 
 **דער** גוטער מאַן  => **דער** מאַן **דער** גוטער
 
-**a) Les suffixes de la déclinaison sont les mêmes** que lorsque l’adjectif est placé avant le nom : 
+**a) Les suffixes de la déclinaison sont les mêmes** que lorsque l’adjectif est placé avant le nom :
 
-
-**a1** au féminin défini et indéfini
+- Au féminin défini et indéfini :
+  
   ==Insert table==
 
-**a2** au masculin défini et indéfini (les terminaisons dépendent de la dernière lettre de l’adjectif à l’accusatif et datif**)**
+- au masculin défini et indéfini les terminaisons dépendent de la dernière lettre de l’adjectif à l’accusatif et datif :
 
-**Rq** : Lorsque plusieurs adjectifs sont placés après le nom, la répétition de l’article s’impose devant le premier adjectif et est admise devant les adjectifs suivants :
+  ==Insert table==
 
-איך רעד מיט דעם/אַ מאַן **דעם /אַ** גוט**ן**, פֿרומ**ען**, שיינ**עם.**
+  **Remarque.** Lorsque plusieurs adjectifs sont placés après le nom, la répétition de l’article s’impose devant le premier adjectif et est admise devant les adjectifs suivants :
 
-איך רעד מיט דעם/אַ מאַן **דעם /אַ** גוט**ן**, **דעם/אַ** פֿרומ**ען**, **דעם /אַ** שיינ**עם.**
+  .איך רעד מיט דעם/אַ מאַן **דעם /אַ** גוט**ן**, פֿרומ**ען**, שיינ**עם**
 
-**. a3** au neutre défini
+  .איך רעד מיט דעם/אַ מאַן **דעם /אַ** גוט**ן**, **דעם/אַ** פֿרומ**ען**, **דעם /אַ** שיינ**עם**
+
+- au neutre défini :
+
+  ==Insert table==
 
 **b) Les suffixes de la déclinaison sont différents** au neutre indéfini selon la place de l’adjectif  :
 
-- avant le nom l’adjectif garde la forme de base aux trois cas
+- avant le nom l’adjectif garde la forme de base aux trois cas ;
 
--  après le nom la terminaison est **– ס** aux trois cas
+-  après le nom la terminaison est **ס–** aux trois cas.
 
 La déclinaison se fait aussi comme avec l’article indéfini :
 
-- en l’absence d’article שיין מיידעלע  =>  מיידעלע שײַנ**ס**
+- en l’absence d’article שיין מיידעלע  =>  מיידעלע שיינ**ס**
 
 - lorsqu’un adjectif possessif précède l’adjective épithète. Comparez :
 
-מײַן שיין מיידעלע  =>  שיין מיידעלע מײַנ**ס**
+  מײַן שיין מיידעלע  =>  שיין מיידעלע מײַנ**ס**
 
-**c) Au pluriel : un seul suffixe** **– ע**  valable pour tous les genres et tous les cas
+**c) Au pluriel un seul suffixe ע-** est valable pour tous les genres et tous les cas :
 
-- avec l’article défini : דאָס קליינע קינד. די קליינ**ע** קינדער  => די קינדער די קליינ**ע**
+- avec l’article défini : 
+  
+  דאָס קליינע קינד => די קליינ**ע** קינדער  => די קינדער די קליינ**ע**
 
 - avec l’article indéfini (au pluriel la marque de l’indéfinition est l’absence d’article) :
 
-אַ קליין קינד.  קליינ**ע** קינדער =>  קינדער קליינ**ע**
+  אַ קליין קינד => קליינ**ע** קינדער =>  קינדער קליינ**ע**
 
-(voir les 2 tableaux récapitulatifs de la déclinaison des adjectifs p. 10 et 11)
+Voir les [2 tableaux récapitulatifs de la déclinaison des adjectifs](adjectif1.md#tableau-recapitulatif-adjectifs-places-avant-le-nom-singulier).
 
 ## FORMES PARTICULIÈRES
 
 ### Adjectifs  dont la forme de base se termine par un ל– ou un ן– syllabique
 
-On intercale un **– ע** à toutes les formes déclinées (sauf au neutre indéfini).
+On intercale un **ע** à toutes les formes déclinées sauf au neutre indéfini.
 
-**(**Dans le dictionnaire un point _haut_ signale la place de cet  **– ע** dans la forme  de base**)**
+Dans le dictionnaire un point hautsignale la place de cet  **ע** dans la forme  de base.
 
-אייד.ל => אָט איז דער/אַן  אייד**ע**לער מאַן, די/אַן  אייד**ע**לע פֿרוי, דאָס  אייד**ע**לע קינד _(l’enfant poli )_
+אייד.ל => אָט איז דער/אַן  אייד**ע**לער מאַן, די/אַן  אייד**ע**לע פֿרוי, דאָס  אייד**ע**לע קינד
 
-איך  זע דעם /אַן אייד**על**ן מאַן  די / אַן אייד**ע**לע פֿרוי,  דאָס  אייד**ע**לע קינד
+איך  זע דעם / אַן אייד**על**ן מאַן,  די / אַן אייד**ע**לע פֿרוי,  דאָס  אייד**ע**לע קינד
 
-אָט איז אַן איידל קינד , אַ קינד אַן איידל**ס  /** איך זע אַן איידל קינד ,  אַ קינד אַן איידל**ס**
+אָט איז אַן איידל קינד, אַ קינד אַן איידל**ס  /** איך זע אַן איידל קינד,  אַ קינד אַן איידל**ס**
 
-אָפֿ.ן  =>  דער /אַן אָפֿ**ע**נער טויער, די אָפֿ**ע**נע טיר, דאָס אָפֿ**ע**נע  פֿענצטער,  אַן אָפֿן פֿענצטער _Le portail ouvert, la porte ouverte, la fenêtre ouverte, une fenêtre ouverte._
+אָפֿ.ן  =>  דער /אַן אָפֿ**ע**נער טויער, די אָפֿ**ע**נע טיר, דאָס אָפֿ**ע**נע  פֿענצטער,  אַן אָפֿן פֿענצטער 
 
-**Rq** **: _l’accent tonique ne se déplace pas_** après ajout des suffixes de la déclinaison. Il reste à la place qu’il occupe dans la forme de base de l’adjectif.
+_Le portail ouvert, la porte ouverte, la fenêtre ouverte, une fenêtre ouverte._
 
-איי**׳**דל  =>  דער איי**׳**דעלער מאַן  /  אָ**׳**פֿן =>  דער אָ**׳**פֿענער טויער
+**Remarque. L’accent tonique ne se déplace pas** après ajout des suffixes de la déclinaison. Il reste à la place qu’il occupe dans la forme de base de l’adjectif.
 
-Il en est de même pour les adjectifs des points  2. 3.  4. ci-dessous.
+איי**׳**דל  =>  דער איי**׳**דעלער מאַן  
+
+  אָ**׳**פֿן =>  דער אָ**׳**פֿענער טויער
+
+Il en est de même pour les adjectifs des trois groupes suivantes ci-dessous.
 
 ### Participes employés comme adjectifs
 
-Les participes peuvent être employés comme adjectifs : ils s’accordent et se déclinent. Ils peuvent être placés avant ou après le substantif :
+Les participes peuvent être employés comme adjectifs : ils s’accordent et se déclinent. Ils peuvent être placés avant ou après le substantif.
 
 **a)** **participes passés** :  
+
 _la mère est exténuée_
 די מוטער איז פֿאַרמאַטערט
 
@@ -209,290 +257,347 @@ _la mère est exténuée_
 
 מיט דעם / אַ פֿאַרמאַטערט**ן**  מאַן ,  מיט דער / אַ פֿאַרמאַטערט**ער** פֿרוי מיט דער פֿרוי דער פֿאַרמאַטערט**ער**
 
-**Rq.1** Les participes passés irréguliers terminés par un **– ן syllabique** ont un **– ע** intercalaire :
+**Remarque 1.** Les participes passés irréguliers terminés par un **ן- syllabique** ont un **ע-** intercalaire :
 
-מאָלן / געמאָלן _moudre_ => דאָס געמאָל**ע**נע ווייץ_Le blé moulu_
+מאָלן / געמאָלן _moudre_ => דאָס געמאָל**ע**נע ווייץ _le blé moulu_
 
-אָנצינדן / אָנגעצונדן  _allumer_ => נעבן דעם אָנגעצונד**ע**נעם לאָמפּ _A côté de la lampe allumée_
+אָנצינדן / אָנגעצונדן  _allumer_ => נעבן דעם אָנגעצונד**ע**נעם לאָמפּ _à côté de la lampe allumée_
 
-Le verbe **זײַן** a 2 participes : **געווען / געוועזן** . Seul געוועזן est employé comme adjectif et se décline avec le sens de _ancien, ex-_ : _l’ancien /l’ex- directeur_ דער געוועז**ענער** דירעקטאָר
+Le verbe **זײַן** a 2 participes : **געווען / געוועזן** . Seul געוועזן est employé comme adjectif et se décline avec le sens de _ancien, ex-_ : _l’ancien / l’ex-directeur_ דער געוועז**ענער** דירעקטאָר.
 
-**Rq. 2** A signaler deux participes passés irréguliers qui se déclinent irrégulièrement :
+**Remarque 2.** À signaler deux participes passés irréguliers qui se déclinent irrégulièrement :
 
-געשען  =>  געשען  => דאָס געשע**ענע** _Ce qui est arrivé_
+געשען  =>  געשען  => דאָס געשע**ענע** _ce qui est arrivé_
 
-זען  =>  געזען  => דער געזע**ענער** פֿילם _Le film (qui a été) vu_
+זען  =>  געזען  => דער געזע**ענער** פֿילם _le film (qui a été) vu_
 
 **b)** **participes présents** :
 
-דער שווײַגנדיק**ער** מאַן _l’homme gardant le silence_ , די לאַכנדיק**ע** פֿרוי  _La femme rieuse_ (_riante_)
+דער שווײַגנדיק**ער** מאַן _l’homme gardant le silence_ 
 
-דאָס שלאָפֿנדיק**ע** קינד _l’enfant endormi_ (_dormant_) ,  אַ זינגענדיק פֿייגעלע_un oiseau chantant_ ......
+די לאַכנדיק**ע** פֿרוי  _La femme rieuse_ (_riante_)
 
+דאָס שלאָפֿנדיק**ע** קינד _l’enfant endormi_ (_dormant_)
+
+אַ זינגענדיק פֿייגעלע _un oiseau chantant_
 
 ### Les adjectifs formés à partir de noms de matières
 
-(voir suffixes adjectivaux.  p.25-26)
+Voir [suffixes adjectivaux](adjectif4.md).
 
 Pour former ces adjectifs :
 
-<![if !supportLists]>**a)** <![endif]>**On ajoute le – ן syllabique** aux noms de matière dont la dernière lettre est une consonne  (sauf **– ל** syllabique)**.**
+**a) On ajoute le ן syllabique** aux noms de matière dont la dernière lettre est une consonne  (sauf **ל–** syllabique).
 
-גאָלד => אַ גאָלדן רינגעלע  _un anneau en or_ , זײַד => אַ זײַדן העמד  _Une_ _Chemise en soie_
+גאָלד => אַ גאָלדן רינגעלע  _un anneau en or_ 
 
-לעדער => לעדערן ,  _en cuir_ קופּער  => קופּערן _en cuivre_
+זײַד => אַ זײַדן העמד  _une_ _Chemise en soie_
 
-Lors de  la déclinaison un **ע**  vient s’intercaler avant le **נ**
+לעדער => לעדערן  _en cuir_ 
 
-דער קרישטאָל**ע**נער בעכער _la coupe en cristal_ די זײַד**ע**נע קליידער_Les robes en soie_
+קופּער  => קופּערן _en cuivre_
 
-דער וואָל**ע**נער מאַנטל_le manteau en laine_
+Lors de  la déclinaison un **ע**  vient s’intercaler avant le **נ**.
 
-Mais lorsque le nom de la matière se termine par **– ער**  il n’y a pas de **ע**  intercalaire  entre le ר et le **נ** **:**
+דער קרישטאָל**ע**נער בעכער _la coupe en cristal_ 
 
-קופּער => קופּ**ערן**  _en cuivre_ => אין קופּ**ערנעם** פֿענדל , _Dans la casserole en cuivre_
+די זײַד**ע**נע קליידער _les robes en soie_
 
-זילבער => זילב**ערן**  (_en argen_t) => די זילב**ערנע** קרוין  _La couronne en argent_
+דער וואָל**ע**נער מאַנטל _le manteau en laine_
 
-**b**) **on remplace par  le suffixe – עלן** le ל syllabique du nom de la matière. Mais la forme de base de l’adjectif ainsi obtenu **perd le** **ע**  lors de la déclinaison :
+Mais lorsque le nom de la matière se termine par **ער-**  il n’y a pas de **ע**  intercalaire  entre le **ר** et le **נ** :
 
-באַנוול  => באַנוו**עלן** =>  דער באַנוו**לנ**ער סוועטער  _Le pull en coton_
+קופּער => קופּ**ערן**  _en cuivre_ => אין קופּ**ערנעם** פֿענדל  _dans la casserole en cuivre_
 
-מירמל  =>  מירמ**עלן** _=>_  דער מירמ**לנ**ער טויער _Le portail en marbre_
+זילבער => זילב**ערן**  (_en argent_) => די זילב**ערנע** קרוין  _la couronne en argent_
 
-**c)** **on ajoute le suffixe– ען**  aux noms de matière terminés par une voyelle ou une diphtongue :  _en plomb_ בלײַ => בלײַען _en paille_ שטרוי => שטרויען
+**b) on remplace par  le suffixe עלן-** le **ל** syllabique du nom de la matière. Mais la forme de base de l’adjectif ainsi obtenu **perd le ע**  lors de la déclinaison :
 
-**Rq**. Ces adjectifs n’ont que la forme déclinée épithète. La forme de base attribut est impossible.
+באַנוול  => באַנוו**עלן** =>  דער באַנוו**לנ**ער סוועטער  _le pull en coton_
 
-On peut dire דער וואָלענער מאַנטל, די קופּערנע פֿאַן, דאָס זײַדענע קלייד
+מירמל  =>  מירמ**עלן** _=>_  דער מירמ**לנ**ער טויער _le portail en marbre_
 
-Mais on ne peut dire איז זײַדן  דער מאַנטל איז וואָלן, די פֿאַן איז קופּערן, דאָס קלייד
+**c)** **on ajoute le suffixe ען-**  aux noms de matière terminés par une voyelle ou une diphtongue : 
 
-On dira דאָס קלײַד איז פֿון זײַד דער מאַנטל איז פֿון וואָל, די פֿאַן איז פֿון קופּער,
+ _en plomb_ בלײַ => בלײַען 
+ 
+ _en paille_ שטרוי => שטרויען
+
+**Remarque.** Ces adjectifs n’ont que la forme déclinée épithète. La forme de base attribut est impossible.
+
+On peut dire:  דער וואָלענער מאַנטל, די קופּערנע פֿאַן, דאָס זײַדענע קלייד
+
+Mais on ne peut dire : דער מאַנטל איז וואָלן, די פֿאַן איז קופּערן, דאָס קלייד איז זײַדן
+
+On dira : דאָס קלײַד איז פֿון זײַד, דער מאַנטל איז פֿון וואָל, די פֿאַן איז פֿון קופּער
 
 ### Adjectifs terminés par ע-
 
-Les adjectifs dont la forme de base se termine en** **– ע**  (נודנ**ע**, טשיקאַוו**ע**... )  **:**
+Les adjectifs dont la forme de base se termine en **ע-** , p. e., נודנ**ע**, טשיקאַוו**ע** :
 
-<![if !supportLists]>**a)** <![endif]>**au nominatif** masculin et datif féminin on ajoute seulement **– ר**
+**a) au nominatif** masculin et datif féminin on ajoute seulement **ר-** :
 
-אַ נודנע**ר** פּראָפֿעסאָר _Un professeur ennuyeux_
+אַ נודנע**ר** פּראָפֿעסאָר _un professeur ennuyeux_
 
-אין אַ טשיקאַווע**ר** סיטואַציע_Dans une situation curieuse, bizarre_
+אין אַ טשיקאַווע**ר** סיטואַציע _dans une situation curieuse, bizarre_
 
-**b**) **au datif-accusatif** masculin et datif neutre, deux possibilités :
+**b) au datif et accusatif masculin et datif neutre**, deux possibilités :
 
-- si le **– ע** de l’adjectif de base est précédé d’un  **נ** on ajoute un **ם**
+- si le **ע-** de l’adjectif de base est précédé d’un **נ** on ajoute un **ם** :
+  
+  >.זע נאָר דעם וואַזשנ**עם** פּאַרשוין
+<br>Regarde donc ce fameux individu.
 
-זע נאָר דעם וואַזשנ**עם** פּאַרשוין.Regarde _donc ce fameux individu._
+  >.אין דעם נודנ**עם** בוך
+<br>Dans le livre ennuyeux.
 
-אין דעם נודנ**עם** בוך.  _Dans le livre ennuyeux._
+- dans tous les autres cas, on ajoute un  **ן-**, le **ע** de la forme de base peut disparaître :
 
-- dans tous les autres cas, on ajoute un  **– ן**, le **– ע** de la forme de base peut disparaître :
+  >!זע נאָר דעם טשיקאַוו(ע)**ן** פּאַרשוין
+<br>Regarde donc cet individu bizarre !
 
-זע נאָר דעם טשיקאַוו(ע)**ן** פּאַרשוין! _Regarde donc cet individu bizarre !_
-
-וואָס קוקט ער מיטן  תּמעוואַט**ן** [_טאַמעוואַטן_] פּנים זײַנעם ?
-
-_Qu’a-t-il à regarder avec ce visage d’abruti ?_
+  >?וואָס קוקט ער מיטן  תּמעוואַט**ן** [_טאַמעוואַטן_] פּנים זײַנעם
+<br>Qu’a-t-il à regarder avec ce visage d’abruti ?
 
 ### Adjectifs formés à partir de noms de villes et de pays
 
 Les adjectifs formés à partir de noms de villes ou de pays par ajout du suffixe :
 
-- **ער**  פּאַריז =>  פּאַריז**ער**  ניו־יאָרק = ניו-יאָרק**ער**
+- **ער** :  
+  
+  פּאַריז =>  פּאַריז**ער** 
+  
+   ניו־יאָרק => ניו-יאָרק**ער**
 
-- ׳**אַנער**  אַמעריקע = אַמעריקאַ**׳נער**  אַפֿריקע = אַפֿריק**אַ׳נער**
+- ׳**אַנער** :
+  
+   אַמעריקע => אַמעריקאַ**׳נער** 
+   
+    אַפֿריקע => אַפֿריק**אַ׳נער**
 
-- עווער  וואַרשע = **וואַרשעווער**
+- **עווער** :
+  
+   וואַרשע  וואַרשעווער
 
-Ces adjectifs sont **invariables**
+Ces adjectifs sont **invariables** :
 
 דער פּאַרי׳זער מאַן,  די פּאַריזער פֿרוי,  דאָס פּאַריזער לעבן,  די פּאַריזער גאַסן
 
 Ces adjectifs peuvent être substantivés mais restent invariables :
 
-דער אַמעריקאַ׳נער איז געקומען. איך רעד מיט דעם ווי׳לנער.
+דער אַמעריקאַ׳נער איז געקומען
 
-Pour former le substantif féminin on ajoute généralement le suffixe **– ין**
+ איך רעד מיט דעם ווי׳לנער
 
-די אַמעריקאַ׳נער**ין** איז געקומען.  איך רעד מיט דער ווי׳לנער**ין.**
+Pour former le substantif féminin on ajoute généralement le suffixe **ין-** :
 
-**R**q. : le suffixe **– אַ׳נער** porte l’accent tonique, un déplacement de l’accent se produit donc :
+די אַמעריקאַ׳נער**ין** איז געקומען
 
-אַמע**׳**ריקע  => אַמעריקאַ**׳**נער ,  אַמעריקאַ**׳**נערין  אַ**׳**פֿריקע => אַפֿריקאַ**׳**נער
+  איך רעד מיט דער ווי׳לנער**ין**
+
+**Remarque.** Le suffixe **אַ׳נער-** porte l’accent tonique, un déplacement de l’accent se produit donc :
+
+אַמע**׳**ריקע  => אַמעריקאַ**׳**נער ,  אַמעריקאַ**׳**נערין
+
+  אַ**׳**פֿריקע => אַפֿריקאַ**׳**נער
 
 ### Quelques adjectifs particuliers
 
-**a)** **L’adjectif** **אַנדער**  (autre, l’un ou l’autre)
+**a) L’adjectif אַנדער**  (_autre_, _l’un ou l’autre_)
 
-**-** Il est **toujours épithète.** Précédé de l’article défini il se décline normalement. Mais il est en général invariable lorsqu’il est précédé de l’article indéfini :
+- Il est **toujours épithète**. Précédé de l’article défini il se décline normalement. Mais il est en général invariable lorsqu’il est précédé de l’article indéfini :
 
-דער אַ׳נדערער מענטש, די אַ׳נדערע פֿרוי  מיט דער אַ׳נדערער פֿרוי
+  דער אַ׳נדערער מענטש, די אַ׳נדערע פֿרוי  מיט דער אַ׳נדערער פֿרוי 
 
-אַן אַ׳נדער מענטש,  אַן אַנדער פֿרוי,  מיט אַן אַנדער פֿרוי
+  אַן אַ׳נדער מענטש,  אַן אַנדער פֿרוי,  מיט אַן אַנדער פֿרוי
 
-- Il **ne peut être attribut**, il faut alors avoir recours à l’adverbe : אַנדערש
+- Il **ne peut être attribut**, il faut alors avoir recours à l’adverbe  אַנדערש :
 
-ער זעט אויס אַנדערש,  זי  איז אַנדערש,  דאָס איז אַנדערש
+  ער זעט אויס אַנדערש,  זי  איז אַנדערש,  דאָס איז אַנדערש
 
-**b)** les adjectifs :
+**b)** Les adjectifs : **אונטערשט,**  **אייבערשט,** **פֿאָדערשט,** **הינטערשט,** **ערשט,** **לעצט**
 
-**אונטערשט,**  **אייבערשט,** **פֿאָדערשט,** **הינטערשט,** **ערשט,** **לעצט**
+_dernier,  premier,  postérieur,  antérieur,  supérieur,  inférieur_
 
-_Dernier,  premier,  postérieur,  antérieur,  supérieur,  inférieur_
-
-. Ce sont en fait des superlatifs  (voir p.17) . Ils ne peuvent être utilisés comme attribut.
+Ce sont en fait des superlatifs  (voir [ici](adjectif2.md#le-superlatif)). Ils ne peuvent être utilisés comme attribut.
 
 Comme éphtètes ils se déclinent normalement.
 
-**c) les adjectifs משו****׳****גע** (_fou_) et **טרייף**  (_non cacher_) ont deux formes comparables :
+**c) Les adjectifs משו**׳**גע** (_fou_) et **טרייף**  (_non cacher_) ont deux formes comparables :
 
-- comme attribut : משוגע  => _il /elle est fou /folle_  ער/ זי איז משוגע [_מעשוגע_]
+- comme attribut : 
+  
+  משוגע  => _il /elle est fou /folle_  ער/ זי איז משוגע
 
-טרייף => _ce saucisson est non cacher_ דער וווּרשט איז טרייף
+  טרייף => _ce saucisson est non cacher_ דער וווּרשט איז טרייף
 
-- comme épithète  משוגע => **.ן משוג**  avec un **ע** intercalaire lors des déclinaisons  דער משו׳ג**ע**נער מאַן,  מיט דעם משוג**ע**נעם מאַן,  אַ משוגן לעבן
+- comme épithète **משוגע+ן**  avec un **ע** intercalaire lors des déclinaisons :  
+  
+  דער משו׳ג**ע**נער מאַן,  מיט דעם משוג**ע**נעם מאַן,  אַ משוגן לעבן
 
-**טרייף** **=> טרייפֿ.ן** :  דער טרייפֿ**ע**נער וווּרשט
+  **טרייף** **=> טרייפֿ.ן** :  דער טרייפֿ**ע**נער וווּרשט
 
-**d) L’adjectif גרויס**  reste invariable dans des expressions toutes faites décrivant des sentiments ou des états. Cet emploi est fréquent. (On peut le comparer au français « grand peur », « grand peine ») :
+**d) L’adjectif גרויס**  reste invariable dans des expressions toutes faites décrivant des sentiments ou des états. Cet emploi est fréquent. On peut le comparer au français « grand peur », « grand peine » :
 
-פֿון גרויס לאַנגווײַל ...... (גראַדע)  _De grand ennui………._
+>...פֿון גרויס לאַנגווײַל
+<br>De grand ennui ...
 
-ער האָט געלעבט אין גרויס אָרעמקייט  _Il vivait dans une grande pauvreté.  ._
+>.ער האָט געלעבט אין גרויס אָרעמקייט
+<br>Il vivait dans une grande pauvreté.
 
-פֿון גרויס צרות [_צאָרעס_] זײַנען זיי באַלד געשטאָרבן (י. מײַטליס)
+>.פֿון גרויס צרות [_צאָרעס_] זײַנען זיי באַלד געשטאָרבן<br>De grand chagrin ils moururent rapidement.
 
-_De grand chagrin ils moururent rapidement._
+**e)** Les adjectifs **האַלב** et **גאַנץ** suivis d’un nom géographique, avec un sens collectif, restent invariables : 
 
-**e)** Les adjectifs **האַלב et גאַנץ** suivis d’un nom géographique, avec un sens collectif, restent invariables :  _Tout Paris_ גאַנץ פּאַריז , _toute l’Amérique_ גאַנץ אַמעריקע
+ _tout Paris_ גאַנץ פּאַריז 
+ 
+  _toute l’Amérique_ גאַנץ אַמעריקע
 
-האַלב אַפֿריקע _la moitié de l’Afrique_
+_la moitié de l’Afrique_ האַלב אַפֿריקע 
 
 ## ADJECTIFS SUBSTANTIVÉS
 
-**1. Les adjectifs peuvent être substantivés,** (de même que les participes).
+**1. Les adjectifs peuvent être substantivés**, de même que les participes.
 
-**a)** Ils remplissent alors dans la phrase toutes les fonctions d’un substantif (mais continuent à **se décliner** comme les adjectifs) **:** sujet, compléments et peuvent être au possessif (voir chapitre : le possessif du nom)
+**a)** Ils remplissent alors dans la phrase toutes les fonctions d’un substantif, mais continuent à **se décliner** comme les adjectifs (sujet, compléments) et peuvent être au possessif.
 
-דער אַלטער מאַן איז געקומען => דער אַלט**ער** איז געקומען.  _Le vieux est arrivé._
+דער אַלטער מאַן איז געקומען => דער אַלט**ער** איז געקומען  _le vieux est arrivé_
 
-איך רעד מיט דער קראַנק**ער** און מיט דעם קראַנק**ן**._Je parle avec la malade et le malade._
+>.איך רעד מיט דער קראַנק**ער** און מיט דעם קראַנק**ן**
+<br>Je parle avec la malade et le malade.
 
-דער קראַנקער**ס** מעדיקאַמענטן. _Les médicaments de la malade._
+>.דער קראַנקער**ס** מעדיקאַמענטן
+<br>Les médicaments de la malade.
 
 **b)** Au neutre défini, l’adjectif décliné désigne souvent une abstraction.
 
-דאָס אַלטע _ce qui est vieux_  דאָס נײַע _Ce qui est nouveau, la nouveauté_
+דאָס אַלטע _ce qui est vieux_ 
 
-דאָס שיינע_Tout ce qui est beau, la beauté_
+ דאָס נײַע _Ce qui est nouveau, la nouveauté_
 
-_-_ Au neutre indéfini, la terminaison est  **– ס** et le sens « quelque chose de »
+דאָס שיינע _tout ce qui est beau, la beauté_
 
-אַ שיינס , אַ גוטס, _Quelque chose de beau, de bien_
+Au neutre indéfini, la terminaison est  **ס–** et le sens « quelque chose de ».
 
-ער האָט מיר דערציילט אַ סך גוטס וועגן דײַן ברודער.
+אַ שיינס , אַ גוטס, _quelque chose de beau, de bien_
 
-_Il m’a dit beaucoup de bien à propos de ton frère._
+>.ער האָט מיר דערציילט אַ סך גוטס וועגן דײַן ברודער
+<br>Il m’a dit beaucoup de bien à propos de ton frère.
 
-**c)**  Les adjectifs  **שלעכט**  et  **גוט**  peuvent prendre la terminaison **– ס** avec l’article défini :  _Le bien, ce qui est bien._ דאָס גוטע = דאָס גוטס
+**c)**  Les adjectifs  **שלעכט**  et  **גוט**  peuvent prendre la terminaison **ס-** avec l’article défini. 
 
-דאָס שלעכטע = דאָס שלעכטס _Le mal, ce qui est mal._
+ דאָס גוטע = דאָס גוטס  _le bien, ce qui est bien_
 
-**d)** les participes passés ont les mêmes déclinaisons que l’adjectif qualificatif
+דאָס שלעכטע = דאָס שלעכטס _le mal, ce qui est mal_
 
-דער  אָנגעקומע**נער**  האָט  געעפֿנט  די  טיר._Le nouveau venu a ouvert la porte._
+**d)** Les participes passés ont les mêmes déclinaisons que l’adjectif qualificatif.
 
-איך זע דעם געלערנט**ן**. _Je  vois l’érudit._
+>.דער  אָנגעקומע**נער**  האָט  געעפֿנט  די  טיר
+<br>Le nouveau venu a ouvert la porte.
 
-**Rq**. Les participes passés qui se terminent par un **– ן** **syllabique** reçoivent un **– ע** dans toutes les formes déclinées :
+>.איך זע דעם געלערנט**ן**
+<br>Je  vois l’érudit.
 
-אַ מענטש איז געשטאָרבן. דער געשטאָרב**ענער** האָט געוווינט אין פּאַריז, איך האָב געקענט דעם געשטאָרב**ענעם**.
+**Remarque.** Les participes passés qui se terminent par un **ן- syllabique** reçoivent un **ע** dans toutes les formes déclinées.
 
-_Un homme est mort. Le mort  vivait à Paris, j’ai connu le mort._
+>.אַ מענטש איז געשטאָרבן. דער געשטאָרב**ענער** האָט געוווינט אין פּאַריז, איך האָב געקענט דעם געשטאָרב**ענעם**
+<br>Un homme est mort. Le mort  vivait à Paris, j’ai connu le mort.
 
-**e)** les participes présents :
+**e)** Les participes présents :
 
-דער מאַן שלאָפֿט. דער שלאָפֿנ**דיקער** כראָפּעט. איך קוק אויף דעם שלאָפֿנ**דיקן.**
+>.דער מאַן שלאָפֿט. דער שלאָפֿנ**דיקער** כראָפּעט. איך קוק אויף דעם שלאָפֿנ**דיקן**
+<br>L’homme dort. L’homme endormi (dormant) ronfle. Je regarde l’homme endormi.
 
-_L’homme dort. L’homme endormi (dormant) ronfle. Je regarde l’homme endormi._
+**2.** Les adjectifs substantivés, comme tous les substantifs,  peuvent être **attribut**. Ils sont alors **précédés de l’article indéfini**.
 
-**2. Les adjectifs substantivés,** comme tous les substantifs,  peuvent être **attribut**.
+**a)** **Attribut du sujet** (avec le verbe **זײַן** ou d’autres verbes intransitifs), il est alors décliné au **nominatif** :
 
-Ils sont alors **précédés de l’article indéfini**
+- au masculin et féminin :
+  
+  >.דער מאַן איז **אַן** אַלט**ער** און **אַ** קלוג**ער**
+<br>L’homme est (un) vieux et intelligent.
 
-**a)** **Attribut du sujet** _(avec le verbe_ **זײַן** ou d’autres verbes intransitifs), il est alors décliné au **nominatif**
+  >.ער איז אָנגעקומען **אַ** פֿאַרשוויצט**ער**
+<br>Il est arrivé couvert de sueur.
 
-**. a1** au masculin et féminin :
+  >.זי איז געזעסן **אַ** מיד**ע**
+<br>Elle se tenait assise, toute fatiguée.
 
-דער מאַן איז **אַן** אַלט**ער** און **אַ** קלוג**ער**.  _L’homme est (un) vieux et intelligent._
+- au neutre la terminaison est **ס-** (si l’adjectif de base se termine par un **ס** il n’y a pas de redoublement de cette lettre) :
+  
+  >.דאָס לאַנד איז **אַ** קליינ**ס** און **אַ** שיינ**ס**
+<br>Le pays est petit et beau.
 
-ער איז אָנגעקומען **אַ** פֿאַרשוויצט**ער**. _Il est arrivé couvert de sueur._
+  >.דאָס לאַנד איז **אַ** גרויס
+<br>Le pays est grand.
 
-זי איז געזעסן **אַ** מיד**ע**. _Elle se tenait assise, toute fatiguée._
+  >.דאָס קינד איז אַרומגעגאַנגען **אַ** פֿאַרחלומטס
+<br>L’enfant se promenait, rêveur.
 
-**. a2** au neutre la terminaison est **– ס** (si l’adjectif de base se termine par un **ס** il n’y a pas de redoublement de cette lettre) :
+- au pluriel la marque de l’indéfinition étant l’absence d’article, l’adjectif attribut est utilisé sans terminaison, alors que l’adjectif substantivé prend la terminaison de l’adjectif pluriel **ע-** :
 
-דאָס לאַנד איז **אַ** קליינ**ס** און **אַ** שיינ**ס**._Le pays est petit et beau._
+  די מענער זײַנען אַלט  –  די מענער זײַנען אַלטע
 
-דאָס לאַנד איז **אַ** גרויס._Le pays est grand._
+  די פֿרויען זײַנען שיין  –  די פֿרויען זײַנען שיינע
 
-דאָס קינד איז אַרומגעגאַנגען **אַ** פֿאַרחלומטס [_פֿאַרכאָלעמטס_] _L’enfant se promenait, rêveur._
-
-**. a3** au pluriel la marque de l’indéfinition étant l’absence d’article,
-
-- l’adjectif attribut est utilisé sans terminaison, alors que
-
-- l’adjectif substantivé prend la terminaison de l’adjectif pluriel **– ע**
-
-די מענער זײַנען אַלט  –  די מענער זײַנען אַלטע
-
-די פֿרויען זײַנען שיין  –  די פֿרויען זײַנען שיינע
-
-די לענדער זײַנען קליין  –  די לענדער זײַנען קליינע
+  די לענדער זײַנען קליין  –  די לענדער זײַנען קליינע
 
 **b) Attribut du COD**  (avec les verbes transitifs). L’adjectif substantivé sert à former l’attribut du COD.  On ajoute alors la marque de **l’accusatif** (qui n’est différente du nominatif qu’au masculin) :
 
-- pour le masculin et le féminin les terminaisons usuelles
+- pour le masculin et le féminin les terminaisons usuelles :
+  
+  >.מיר האָבן געזען משהן **אַ** צופֿרידענ**עם**
+<br>Nous avons vu Moïshe content.
 
-מיר האָבן געזען משהן[_מוישען_ ] **אַ** צופֿרידענ**עם****.**  _Nous avons vu Moïshe content._
+  >.אַלע מאָל זע איך מרימען **אַ** מיד**ע**
+<br>Je vois Myriam toujours fatiguée.
 
-אַלע מאָל זע איך מרימען[_מיריאַמען_] **אַ** מיד**ע**_Je vois Myriam toujours fatiguée.  ._
 
-- pour le pluriel le **– ע**
+- pour le pluriel le **ע-** :
 
-דער דאָקטער האָט זיי געטראָפֿן געזונט**ע**  _Le médecin les a trouvés en bonne santé._
+  >.דער דאָקטער האָט זיי געטראָפֿן געזונט**ע**
+<br>Le médecin les a trouvés en bonne santé.
 
-**3. Différence de sens entre certains adjectifs et leurs formes substantivées** lorsqu’ils sont **utilisés comme attributs.**
+
+**3.** Il y a une **différence de sens** entre certains adjectifs et leurs formes substantivées lorsqu’ils sont **utilisés comme attributs**.
 
 En position d’attribut certains adjectifs, qui désignent une propriété pouvant être passagère ou  permanente, peuvent avoir un sens différent lorsqu’ils sont employés dans leur forme de base ou dans leur forme substantivée (déclinée). C’est le cas nottamment des adjectifs : malade  קראַנק , _en bonne santé_ געזונט :
 
-<![if !supportLists]>- <![endif]>la forme de base traduit un état transitoire :
+- la forme de base traduit un état transitoire :
+  
+  >.די מאַמע איז קראַנק
+<br>Maman est malade.
 
-די מאַמע איז קראַנק.  _Maman est malade._ דער טאַטע איז געזונט.  _Papa se porte bien._
+  >.דער טאַטע איז געזונט
+<br>Papa se porte bien.
 
-<![if !supportLists]>- <![endif]>la forme substantivée exprime un état permanent :
+- la forme substantivée exprime un état permanent :
 
-די מאַמע איז **אַ** קראַנק**ע**.  _Maman est une (femme) malade._
+  >.די מאַמע איז **אַ** קראַנק**ע**
+<br>Maman est une (femme) malade.
 
-דער טאַטע איז **אַ** געזונט**ער**.  . _Papa jouit d’une santé solide_
+  >.דער טאַטע איז **אַ** געזונט**ער**
+<br>Papa jouit d’une santé solide.
 
 Mais une précision supplémentaire peut inverser la signification :
 
-זינט די מאַמע איז געשטאָבן, איז דער טאַטע קראַנק .  _Depuis que maman est morte, papa est malade._
+>.זינט די מאַמע איז געשטאָבן, איז דער טאַטע קראַנק
+<br>Depuis que maman est morte, papa est malade.
 
-די מאַמע איז הײַנט אַ קראַנקע, קומט מאָרגן.  _Maman est malade aujourd’hui, revenez demain._
+>.די מאַמע איז הײַנט אַ קראַנקע, קומט מאָרגן
+<br>Maman est malade aujourd’hui, revenez demain.
 
-דער זיידע איז אַלע מאָל געזונט.  _Grand-père est toujours en bonne santé._
+>.דער זיידע איז אַלע מאָל געזונט
+<br>Grand-père est toujours en bonne santé.
 
-דער זיידע איז שוין אַ געזונטער.  _Grand-père a retrouvé la santé._
+>.דער זיידע איז שוין אַ געזונטער
+<br>Grand-père a retrouvé la santé.
 
 ## LES DIMINUTIFS DES ADJECTIFS
 
-[voir suffixes des adjectifs **–  לעך** **(**p.26**)** et – **יטשקע ,  – ינקע, טשינקע** (p. 28)]
+Voir suffixes des adjectifs [לעך-](adjectif4.md#le-suffixe-לעך) et [יטשקע ,-ינקע ,-טשינקע-](adjectif4.md#suffixes-d-origine-slave).
 
-## TABLEAU RECAPITULATIF: ADJECTIFS PLACES **AVANT** LE NOM **SINGULIER**
+## TABLEAU RECAPITULATIF : ADJECTIFS PLACÉS AVANT LE NOM SINGULIER
 
 NEUTRE
 
@@ -564,19 +669,19 @@ MASCULIN
 
 איך רעד מיט
 
-**Au Pluriel** : **n’existe qu’un seule terminaison** **– ע** **valable pour tous les genres et tous les cas**.
+**Au pluriel n’existe qu’un seule terminaison ע- valable pour tous les genres et tous les cas**.
 
-- - - représentent tous les adjectifs  dans leur forme courte - non déclinée – tels que vous les trouvez dans le dictionnaire :
+- **---** représentent tous les adjectifs  dans leur forme courte (non déclinée) tels que vous les trouvez dans le dictionnaire :
 
-- dans les cases blanches vous pouvez placer n’importe quel adjectif (sauf quelques adjectifs, cf p.2) sans vous préoccuper  de la dernière lettre de sa forme de base
+  - dans les cases blanches vous pouvez placer n’importe quel adjectif (sauf quelques adjectifs, cf p.2) sans vous préoccuper  de la dernière lettre de sa forme de base ;
 
-- dans les cases grisées (masculin accusatif et datif utilisés avec l’article défini ou indéfini et le neutre datif utilisé avec l’article défini)  vous devez tenir compte de la dernière lettre de l’adjectif de base selon les indications données.
+  - dans les cases grisées (masculin accusatif et datif utilisés avec l’article défini ou indéfini et le neutre datif utilisé avec l’article défini)  vous devez tenir compte de la dernière lettre de l’adjectif de base selon les indications données.
 
-***** représente  toute consonne terminant un adjectif sauf  –  מ et – ן
+<span>*</span> représente  toute consonne terminant un adjectif sauf מ et ן.
 
-**  représente les adjectifs se terminant par une voyelle ou diphtongue sauf נײַ
+**  représente les adjectifs se terminant par une voyelle ou diphtongue sauf נײַ.
 
-## TABLEAU RECAPITULATIF ADJECTIFS PLACES **APRES** LE NOM **SINGULIER**
+## TABLEAU RECAPITULATIF : ADJECTIFS PLACES APRÈS LE NOM SINGULIER
 
 NEUTRE
 
@@ -654,14 +759,14 @@ MASCULIN
 
 איך רעד מיט
 
-**Au pluriel n’existe qu’une seule terminaison** **– ע** **pour les 3 cas et les 3 genres**
+**Au pluriel n’existe qu’une seule terminaison ע- pour les 3 cas et les 3 genres.**
 
-- - -  représentent tous les adjectifs  dans leur forme de base – tels que vous les trouvez dans le dictionnaire :
+**---**  représentent tous les adjectifs  dans leur forme de base, tels que vous les trouvez dans le dictionnaire :
 
-=> dans les cases blanches vous pouvez placer n’importe quel adjectif sans vous préoccuper  de la dernière lettre de sa forme de base
+- dans les cases blanches vous pouvez placer n’importe quel adjectif sans vous préoccuper  de la dernière lettre de sa forme de base
 
-=> dans les cases grisées (masculin accusatif et datif utilisés avec l’article défini ou indéfini et le neutre datif utilisé avec l’article défini)  vous devez tenir compte de la dernière lettre de la forme de base selon les indications données.
+- dans les cases grisées (masculin accusatif et datif utilisés avec l’article défini ou indéfini et le neutre datif utilisé avec l’article défini)  vous devez tenir compte de la dernière lettre de la forme de base selon les indications données.
 
-***** représente  toute consonne terminant un adjectif sauf  –  מ et – ן
+<span>*</span> représente  toute consonne terminant un adjectif sauf  מ et ן.
 
-**  représente les adjectifs se terminant par une voyelle ou diphtongue sauf נײַ
+**  représente les adjectifs se terminant par une voyelle ou diphtongue sauf נײַ.
