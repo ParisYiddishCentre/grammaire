@@ -2,7 +2,6 @@
 id: adjectif5
 title: Préfixes adjectivaux
 ---
-
 ## LE PRÉFIXE –אומ  
 
 C'est le préfixe plus important. Il est  toujours _accentué_.
