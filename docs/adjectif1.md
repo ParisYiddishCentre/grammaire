@@ -92,7 +92,7 @@ Au neutre, avec l’article indéfini, ou un adjectif possessif, l’adjectif re
   <tr>
     <td><span style="font-weight:bold">ער</span></td>
     <td>---</td>
-    <td>au féminin</td>
+    <td>au masculin</td>
     <td>=&gt;</td>
     <td><span style="font-weight:bold">גוטער</span> מאַן שרײַבט</td>
     <td>דער / אַ</td>
@@ -100,7 +100,7 @@ Au neutre, avec l’article indéfini, ou un adjectif possessif, l’adjectif re
   <tr>
     <td>ע</td>
     <td>---</td>
-    <td>au masculin</td>
+    <td>au féminin</td>
     <td>=&gt;</td>
     <td><span style="font-weight:bold">גוטע</span> פֿרוי שרײַבט</td>
     <td>די / אַ</td>
@@ -129,10 +129,93 @@ Au neutre, avec l’article indéfini, ou un adjectif possessif, l’adjectif re
 
 - féminin et neutre : les suffixes sont les mêmes qu’au nominatif : 
   
-  ==Insert table==
+  <div class="tg-wrap"><table>
+  <tr>
+    <td><span style="font-weight:bold">ע</span></td>
+    <td>---</td>
+    <td>au féminin</td>
+    <td>=&gt;</td>
+    <td><span style="font-weight:bold">גוטע</span> פֿרוי</td>
+    <td>דער / אַ</td>
+    <td>איך זע</td>
+  </tr>
+  <tr>
+    <td><span style="font-weight:bold">ע</span></td>
+    <td>---</td>
+    <td>au neutre défini</td>
+    <td>=&gt;</td>
+    <td><span style="font-weight:bold">גוטע</span> קינד</td>
+    <td>דאָס</td>
+    <td>איך זע</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>---</td>
+    <td>au neutre indéfini</td>
+    <td>=&gt;</td>
+    <td>גוט קינד</td>
+    <td>אַ</td>
+    <td>איך זע</td>
+  </tr>
+</table></div>
+
+
 - au masculin : le suffixe de l’accusatif dépend de la dernière lettre de la forme de base. Lorsque la dernière lettre est : 
 
-  ==Insert table==
+  <div class="tg-wrap"><table>
+  <tr>
+    <td colspan="5"><span style="font-weight:bold">une consonne</span></td>
+  </tr>
+  <tr>
+    <td>- autre que ם ou ן</td>
+    <td>le suffixe est un <span style="font-weight:bold">ן- syllabique</span></td>
+    <td>=&gt;</td>
+    <td>שטאַרק<span style="font-weight:bold">ן</span>, גוט<span style="font-weight:bold">ן</span>, גרויס<span style="font-weight:bold">ן</span> מאַן</td>
+    <td>איך זע דעם / אַ</td>
+  </tr>
+  <tr>
+    <td>- un ם</td>
+    <td>le suffixe est <span style="font-weight:bold">ען-</span></td>
+    <td>=&gt;</td>
+    <td>פֿרומ<span style="font-weight:bold">ען</span> מאַן</td>
+    <td>איך זע דעם / אַ</td>
+  </tr>
+  <tr>
+    <td>- un ן</td>
+    <td>le suffixe est <span style="font-weight:bold">עם-</span></td>
+    <td>=&gt;</td>
+    <td>שיינ<span style="font-weight:bold">עם</span> מאַן</td>
+    <td>איך זע דעם / אַ</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><span style="font-weight:bold">une voyelle ou diphtongue</span></td>
+    <td>le suffixe est <span style="font-weight:bold">ען-</span><br></td>
+    <td>=&gt;</td>
+    <td>גראָ<span style="font-weight:bold">ען</span> / גרוי<span style="font-weight:bold">ען </span>מאַן</td>
+    <td>איך זע דעם / אַ</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><span style="font-weight:bold">une exception נײַ</span></td>
+    <td>le suffixe est <span style="font-weight:700">עם-</span><br></td>
+    <td>=&gt;</td>
+    <td><span style="font-weight:bold">נײַיעם שילער</span></td>
+    <td>איך זע דעם / אַ</td>
+  </tr>
+</table></div>
 
 **c) Au datif :**
 

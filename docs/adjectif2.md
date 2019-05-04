@@ -15,7 +15,7 @@ Le comparatif peut être formé de deux manières :
 
 - soit à l’aide de **מער**  placé avant l’adjectif.
 
-#### Formation à l’aide du suffixe ער- 
+#### Formation à l’aide du suffixe ער-
 
 Ce suffixe est ajouté à la forme de base de l’adjectif dans la grande majorité des cas (forme synthétique).
 
@@ -37,25 +37,53 @@ Cette forme traduit le **comparatif de supériorité**.
 
 **b) Un changement  de voyelle** se produit pour certains adjectifs monosyllabiques (signalé dans le dictionnaire).
 
-- Le plus souvent la voyelle se transforme en ע :
+- Le plus souvent la voyelle se transforme en **ע** :
 
-אַ => ע  אַלט _vieux_ =>  **ע**לטער, קאַלט <=  _froid_ ק**ע**לטער, לאַנג _long_  = _>_ ל**ע**נגער
+    - ע <= אַ
 
-אָ => ע  שמאָל =  _étroit_> שמ**ע**לער , אָפֿט =  _fréquent_> **ע**פֿטער,  נאָענט_proche_  = > נ**ע**ענטער
+        אַלט _vieux_ => עלטער
 
-גראָב =  _gros_> גר**ע**בער  קלאָר =  _clair_> קל**ע**רער
+        קאַלט _froid_ => קעלטער
 
-וי  => ע  גרויס _grand_  = > גר**ע**סער הויך =  _haut_> ה**ע**כער
+        לאַנג _long_ => לענגער
+    
+    - ע <=  אָ
 
-יי  => ע  קליין =  _petit_ > קל**ע**נער  שיין _beau_  ><= ש**ע**נער
+        שמאָל _étroit_ => שמעלער
 
-- le ו se transforme en י :
+        אָפֿט _fréquent_ => עפֿטער
 
-ו =>  י קלוג _intelligent_  => קל**י**גער , קורץ _court_  = > ק**י**רצער,
+        נאָענט _proche_ => נעענטער
 
-פֿרום _pieux_  =>  פֿר**י**מער, געזונט _sain_  = > געז**י**נטער, יונג _jeune_  => י**יִ**נגער
+        גראָב _gros_ => גרעבער
 
-**Remarque.** **L’accent tonique** ne se déplace pas lorsqu’on ajoute des suffixes (du comparatif, de déclinaison, de pluriel...) à l’adjectif de base d’origine non hébraïque.
+        קלאָר _clair_ => קלערער
+
+    - ע <=  וי
+
+        גרויס _grand_ => גרעסער
+
+        הויך _haut_ => העכער
+
+    - ע <=  יי
+
+        קליין _petit_ => קלענער
+
+        שיין _beau_ => שענער
+
+- le **ו** se transforme en **י** :
+
+    קלוג _intelligent_ => קליגער
+
+    קורץ _court_ => קירצער
+
+    פֿרום _pieux_ => פֿרימער
+
+    געזונט _sain_ => געזינטער
+
+    יונג _jeune_ => ייִנגער
+
+**Remarque. L’accent tonique** ne se déplace pas lorsqu’on ajoute des suffixes (du comparatif, de déclinaison, de pluriel) à l’adjectif de base d’origine non hébraïque.
 
 **אַ׳**לט / **ע׳**לטער
 
@@ -75,15 +103,23 @@ Cette forme traduit le **comparatif de supériorité**.
 
 **d)** Comparatifs **irréguliers** :
 
-גוט =  _bon_>  בעסער , שלעכט =  _mal_>  ערגער ,  אַ סך =  _beaucoup_> מער/ מערער
+גוט _bon_ => בעסער
 
-**Remarque 1.** Certains adjectifs ont des « doublons ».
+שלעכט _mal_ => ערגער
 
-אָפֿט _fréquent_  =>  אָפֿטער / עפֿטער  , קלאָר _clair_ =>  קלאָרער /קלערער
+ אַ סך _beaucoup_ => מער / מערער
 
-טונקל _foncé_ =>  טונקעלער /טינקעלער  , קרום _tordu_ => קרומער / קרימער
+**Remarque 1.** Certains adjectifs ont des « doublons » :
 
-**Remarque 2.**  Cas particulier des adjectifs **se terminant par ע-**  : ils forment le comparatif par l’ajout du **ר-** seul : 
+אָפֿט _fréquent_ => אָפֿטער / עפֿטער
+
+קלאָר _clair_ => קלאָרער / קלערער
+
+טונקל _foncé_ => טונקעלער / טינקעלער
+
+קרום _tordu_ => קרומער / קרימער
+
+**Remarque 2.**  Cas particulier des adjectifs **se terminant par ע-**. Ils forment le comparatif par l’ajout du **ר-** seul : 
 
 _bizarre_ מאָדנע => מאָדנער
 
@@ -91,256 +127,294 @@ _bizarre_ מאָדנע => מאָדנער
 
 **2. Cette « nouvelle forme de base »** de l’adjectif  est utilisée (comme tout adjectif) :
 
-**a)** comme **attribut** (forme de base)
+**a)** comme **attribut** (forme de base) :
 
-דו ביסט שטאַרק  אָבער  ער איז **שטאַרקער.**_Tu es forte mais il est plus fort._
+>.דו ביסט שטאַרק  אָבער  ער איז **שטאַרקער**
+<br>Tu es forte mais il est plus fort.
 
-מײַן מאַנטל איז לײַכט, דײַנער איז **לײַכטער.** _Mon manteau est léger, le tien est plus léger._
+>.מײַן מאַנטל איז לײַכט, דײַנער איז **לײַכטער**
+<br>Mon manteau est léger, le tien est plus léger.
 
-די זאַך איז שווער,  יענע איז **שווערער.**_Cette chose est lourde  et l’autre  est plus lourde._
+>.די זאַך איז שווער, יענע איז **שווערער**
+<br>Cette chose est lourde  et l’autre  est plus lourde.
 
-די ערשטע לעקציע איז אינטערעסאַנט און די צווייטע איז **אינטערעסאַנטער**
-
-_La première leçon est intéressante et la deuxième est plus intéressante._
+>.די ערשטע לעקציע איז אינטערעסאַנט און די צווייטע איז **אינטערעסאַנטער**
+<br>La première leçon est intéressante et la deuxième est plus intéressante.
 
 **b)** comme **épithète** (forme déclinée) ; les suffixes de la déclinaison viennent s’ajouter à la « nouvelle forme de base ».
 
-Nous prendrons comme exemple, l’adjectif שטאַ׳רק dont la nouvelle forme de base est **שטאַ׳רקער**  et la déclinaison est :
+Nous prendrons comme exemple, l’adjectif **שטאַ׳רק** dont la nouvelle forme de base est **שטאַ׳רקער**  et la déclinaison est :
 
 - au masculin :
 
   - nominatif :
 
-    אַ  _שטאַרקער_**ער** מאַן אַרבעט בעסער.  _mieux._ _Un homme plus fort travaille_
+    >.אַ  שטאַרקער**ער** מאַן אַרבעט בעסער
+<br>Un homme plus fort travaille mieux.
 
-    דער  _שטאַרקער_**ער** מאַן אַרבעט בעסער  _L’homme plus fort (le plus fort des2) travaille mieux.  ._
+    >.דער שטאַרקער**ער** מאַן אַרבעט בעסער
+<br>L’homme plus fort (le plus fort des deux) travaille mieux.
 
   - accusatif :
 
-    איך זע אַ  _שטאַרקער_**ן** מאַן .  _Je  vois un homme plus fort._
-
-    איך זע דעם _שטאַרקער_**ן** מאַן.  _Je vois l’homme plus fort (des 2.)_
+    >.איך זע אַ שטאַרקער**ן** מאַן
+<br>Je  vois un homme plus fort.
+    
+    >.איך זע דעם שטאַרקער**ן** מאַן
+<br>Je vois l’homme plus fort (des deux).
 
   - datif :
 
-    איך רעד מיט אַ _שטאַרקער_**ן** מאַן .  _Je parle avec un homme plus fort._
+    >.איך רעד מיט אַ שטאַרקער**ן** מאַן
+<br>Je parle avec un homme plus fort.
+    
+     >.איך רעד מיט דעם שטאַרקער**ן** מאַן
+<br>Je parle avec l’homme plus fort (le plus fort des deux).
 
-    איך רעד מיט דעם _שטאַרקער_**ן** מאַן .  _Je parle avec l’homme plus fort (le plus fort des 2)._
+- au féminin :
 
-- au féminin
+    >.אַ שטאַרקער**ע** פֿרוי אַרבעט בעסער
+<br>Une femme  plus forte travaille  mieux.
+    
+    >.די  שטאַרקער**ע** פֿרוי  אַרבעט  בעסער
+<br>La femme  plus forte (des deux) est travaille  mieux.
+    
+    >.איך זע  אַ  שטאַרקער**ע** פֿרוי
+<br>Je vois une femme plus forte.
 
-    אַ _שטאַרקער_**ע** פֿרוי אַרבעט בעסער.  _Une femme  plus forte travaille  mieux._
+    >.איך זע  די  שטאַרקער**ע** פֿרוי
+<br>Je vois la femme plus forte (des deux).
 
-    די  _שטאַרקער_**ע** פֿרוי  אַרבעט  בעסער.  _La femme  plus forte (des 2) est travaille  mieux._
+    >.איך רעד מיט אַ שטאַרקער**ער** פֿרוי<br>Je parle avec un femme plus forte.
 
-    איך זע  אַ  _שטאַרקער_**ע** פֿרוי.  _Je vois une femme plus forte._
+    >.איך רעד מיט דער  שטאַרקער**ער**  פֿרוי
+<br>Je parle avec la femme plus forte (des deux).
 
-    איך זע  די  _שטאַרקער_**ע** פֿרוי.  _Je vois la femme plus forte (=des 2)._
+    >.איך  וועל  וווינען  אין  דעם  קלענערן  הויז, אָבער  אין  אַ  גרעסער**ער**  דירה
+<br>J’habiterai dans la plus petite (des deux) maison dans appartement plus grand.
 
-    איך רעד מיט אַ _שטאַרקער_**ער** פֿרוי.  _Je parle avec un femme plus forte._
+- au **neutre** avec l’article **défini** :
 
-    איך רעד מיט דער  _שטאַרקער_**ער**  פֿרוי.  _Je parle avec la femme plus forte (des 2)._
+    >.דאָס  שטאַרקער**ע**  קינד איז אין דער היים
+<br>L’enfant plus fort est à la maison.
 
-    איך  וועל  וווינען  אין  דעם  קלענערן  הויז, אָבער  אין  אַ  גרעסער**ער**  דירה.
+    >.איך זע דאָס  שטאַרקער**ע** קינד
+<br>Je vois l’enfant plus fort (des deux).
 
-    _J’habiterai dans la plus petite (des 2) maison dans appartement plus grand._
-
-- au **neutre** avec l’article **défini**
-
-    דאָס  _שטאַרקער_**ע**  קינד איז אין דער היים.  _L’enfant plus fort est à la maison._
-
-    איך זע דאָס  _שטאַרקער_**ע** קינד. _Je vois l’enfant plus fort ( des 2)._
-
-    איך רעד מיט דעם _שטאַרקער_**ן** קינד. _Je parle avec l’enfant plus fort ( des 2)._
+    >.איך רעד מיט דעם שטאַרקער**ן** קינד
+<br>Je parle avec l’enfant plus fort (des deux).
 
 - Par contre au **neutre** avec l’article **indéfini** on retrouve :
 
   - la forme de base aux 3 cas lorsque l’adjectif précède le nom et
 
-  - la terminaison  **– ס** aux 3 cas lorsque l’adjectif suit le nom
+  - la terminaison  **ס-** aux 3 cas lorsque l’adjectif suit le nom :
 
-    אַ  **שוואַכער** קינד איז אין דער היים. =>  אַ קינד אַ **שוואַכערס** איז אין דער היים.
+    אַ  **שוואַכער** קינד איז אין דער היים =>  אַ קינד אַ **שוואַכערס** איז אין דער היים.
 
     _Un enfant plus faible est à la maison._
 
-    איך זע אַ  **שוואַכער** קינד.  => איך זע אַ קינד אַ **שוואַכערס****.**
+    איך זע אַ  **שוואַכער** קינד  => איך זע אַ קינד אַ **שוואַכערס**
 
-    איך רעד מיט אַ **שוואַכער** קינד. => איך רעד מיט אַ קינד אַ  **שוואַכערס****.**
+    איך רעד מיט אַ **שוואַכער** קינד => איך רעד מיט אַ קינד אַ  **שוואַכערס**
 
 **En résumé :** au masculin et féminin définis ou indéfinis et au neutre défini l’adjectif a la même forme déclinée que l’adjectif précède ou suive le nom.
 
-דער/ אַ **שטאַרקערער** מאַן אַרבעט  =>  דער /אַ  מאַן דער/אַ  **שטאַרקערער** אַרבעט......
+דער/ אַ **שטאַרקערער** מאַן אַרבעט  =>  דער /אַ  מאַן דער/אַ  **שטאַרקערער** אַרבעט
 
-Au neutre indéfini : il y a 2 formes différentes.
+Au neutre indéfini, il y a 2 formes différentes.
 
-**Remarque**. L’adjectif **בילכער** (ווי/פֿון) (_préférable à_) n’existe qu’au comparatif.
+**Remarque**. L’adjectif **בילכער** ווי/פֿון _préférable à_ n’existe qu’au comparatif.
 
 #### Construction du comparatif avec מער (forme analytique)
 
 1. **Elle est formée** de **מער** **suivi de** **l’adjectif.** L’adjectif est :
 
 - à la forme de base lorsqu’il est **attribut** :
+  
+    >.די  דריטע לעקציע  איז **מער** אינטערעסאַנט
+<br>La 3ème leçon est plus intéressante.
 
-די  דריטע לעקציע  איז **מער** אינטערעסאַנט.  _La 3° leçon est plus intéressante._
-
-דער יונגער פּראָפֿעסאָר איז **מער** אינטערעסאַנט  _Le jeune professeur est plus intéressant.  ._
+    >.דער יונגער פּראָפֿעסאָר איז **מער** אינטערעסאַנט
+<br>Le jeune professeur est plus intéressant.
 
 - à la forme déclinée lorsqu’il est **épithète** :
 
-די **מער** אינטערעסאַנט**ע** לעקציע קומט פֿאָר אין צווייטן צימער.
+    >.די **מער** אינטערעסאַנט**ע** לעקציע קומט פֿאָר אין צווייטן צימער
+<br>Le cours le plus intéressant (des 2) a lieu dans la 2ème pièce.
 
-_Le cours le plus intéressant (des 2) a lieu dans la 2° pièce._
+    >.דער **מער** אינטערעסאַנט**ער** לערער איז אין זאַל נומער  5
+<br>Le professeur le plus intéressant (des 2) est dans la salle numéro 5.
 
-דער **מער** אינטערעסאַנט**ער** לערער איז אין זאַל נומער  5.
-
-_Le professeur le plus intéressant_ (_des 2_) _est dans la salle numéro 5._
-
-Mais on a le choix entre les deux constructions :  אינטערעסאַנט**ער / מער** אינטערעסאַנט
+    Mais on a le choix entre les deux constructions :  אינטערעסאַנט**ער / מער** אינטערעסאַנט
 
 איך הער זיך צו צו דער **מער** אינטערעסאַנט**ער** לעקציע = דער אינטערעסאַנט**ערער** לעקציע.
 
-,  ״  ״  צו דעם **מער** אינטערעסאַנט**ן** קורס  / = צו  דעם /אַן  אינטערעסאַנט**ערן** קורס.
+ צו דעם **מער** אינטערעסאַנט**ן** קורס   = צו  דעם /אַן  אינטערעסאַנט**ערן** קורס
 
 **2. Elle est employée** avec les adjectifs longs, de plus de 2 syllabes et notamment dans leurs formes substantivées :
 
-דער אינטערעסאַנטערער =< דער מער אינטערעסאַנטער
+דער אינטערעסאַנטערער = דער מער אינטערעסאַנטער
 
-פֿאַרשפּרייט _répandu_  <= פֿאַרשפּרייט**ערער**  = מער פֿאַרשפּרייט**ער** _(le) plus répandu_
+פֿאַרשפּרייט _répandu_  => פֿאַרשפּרייט**ערער**  = מער פֿאַרשפּרייט**ער** _(le) plus répandu_
 
-C’est le  cas en particulier des participes  employés comme adjectifs : l’emploi du suffixe comparatif et celui de la déclinaison peuvent devenir trop longues et difficiles à prononcer et surtout si plusieurs de ces adjectifs qualifient le même nom :
+C’est le  cas en particulier des participes  employés comme adjectifs : l’emploi du suffixe comparatif et celui de la déclinaison peuvent devenir trop longues et difficiles à prononcer et surtout si plusieurs de ces adjectifs qualifient le même nom.
 
-אונטערנעמעריש <=  _entreprenant_ דער אונטערנעמיש**ערער**  = דער **מער** אונטערנעמיש**ער**
 
-אָנגעפּאַקט (_bourré_ אָנגעפּאַקט**ערער** צעבראָכן (_cassé_) צעבראָכענ**ערער**
+אונטערנעמעריש =>  _entreprenant_ דער אונטערנעמיש**ערער**  = דער **מער** אונטערנעמיש**ער**
+
+אָנגעפּאַקט _bourré_ אָנגעפּאַקט**ערער** 
+
+צעבראָכן _cassé_ צעבראָכענ**ערער**
 
 ### Construction du comparatif
 
 Le 2° terme de la comparaison est introduit :
 
-- soit par les conjonctions  איידער/ ווי  _suivi du nominatif._
+- soit par les conjonctions  איידער / ווי  suivi du nominatif ;
 
-- soit par  les prépositions  פֿון / פֿאַר  _suivi du datif._
+- soit par  les prépositions  פֿון / פֿאַר  suivi du datif.
 
-_Elle travaille plus vite que moi._ = **פֿון**/**פֿאַר מיר.** זי אַרבעט גיכער **ווי איך**
+>.זי אַרבעט גיכער **ווי איך**/**פֿון**/**פֿאַר מיר**
+<br>Elle travaille plus vite que moi.
 
-_Ton strudel est plus savoureux que le mien._ דײַן שטרודל איז געשמאַקער **ווי מײַנער.**
+>.דײַן שטרודל איז געשמאַקער **פֿון מײַנעם/ווי מײַנער**
+<br>Ton strudel est plus savoureux que le mien.
 
-= **פֿון מײַנעם.**
+>.ער איז שוואַכער **ווי איך**  = ער איז שוואַכער **פֿון מיר**
+<br>Il est plus faible que moi.
 
-_Il est plus faible que moi ._ ער איז שוואַכער **ווי איך**  = ער איז שוואַכער **פֿון מיר.**
+>.בערל איז עלטער **ווי מענדל** / **פֿון** מענדל**ען**
+<br>Berl est plus âgé que Mendl.
 
-בערל איז עלטער **ווי מענדל** =  ....  **פֿון** מענדל**ען****.**  _Berl est plus âgé que Mendl._
+**Remarque** Après איידער / ווי, on peut avoir toute une proposition subordonnée. Le 2ème terme de la comparaison est alors au même cas que le 1er.
 
-**Rq**. Après איידער / ווי ,  on peut avoir toute une proposition subordonnée. Le 2° terme de la comparaison est alors au même cas que le 1° :
+- Si le premier terme est le sujet :
 
-- si le premier terme est le sujet :
+    >.זי איז קלענער ווי איך / ווי איך בין געווען אין איר עלטער
+<br>Elle est plus petite que moi / que je ne l’étais à son âge.
 
-זי איז קלענער ווי איך/ ווי איך בין געווען אין איר עלטער.
+- Si le premier terme n’est pas le sujet (ici cod donc accusatif) :
 
-_Elle est plus petite que moi / que je ne l’étais à son âge._
+    >.איך קען **דעם** זון בעסער ווי / איידער **דעם** פֿאָטער
+<br>Je connais le fils mieux que le père.
 
--si le premier terme n’est pas le sujet (ici cod donc accusatif) :
-
-איך קען **דעם** זון בעסער ווי / איידער **דעם** פֿאָטער.  _Je connais le fils mieux que le père._
-
-ער שמועסט אָפֿטער מיט **דער** באָבע**ן** ווי מיט **דעם** זייד**ן****.**
-
-_Il discute plus souvent avec sa grand-mère qu’avec son grand-père._
+    >.ער שמועסט אָפֿטער מיט **דער** באָבע**ן** ווי מיט **דעם** זייד**ן**
+<br>Il discute plus souvent avec sa grand-mère qu’avec son grand-père.
 
 ### Les progressions coordonées
 
-**1. Pour exprimer la progression d’un seul processus** (rendu en français par « de plus en plus ») on peut employer :
+**1. Pour exprimer la progression d’un seul processus**, rendu en français par _de plus en plus_, on peut employer :
 
 **a)** deux comparatifs reliés par la conjonction **און**  :
 
-"ס´ווערט טריב**ער** **און** טריב**ער**" (נײַדוס].  _C’est de plus en plus maussade._
+>.ס'ווערט טריב**ער** **און** טריב**ער**
+<br>C’est de plus en plus maussade. (L. Naydus)
 
-et le 1° comparatif peut être précédé de **אַלץ :**
+Le 1er comparatif peut être précédé de **אַלץ** :
 
-די לאַגע ווערט **אַלץ** שווער**ער** **און** שווער**ער****.**  _La situation devient de plus en plus difficile._
+>.די לאַגע ווערט **אַלץ** שווער**ער** **און** שווער**ער**
+<br>La situation devient de plus en plus difficile.
 
-**b)** **וואָס אַ מאָל**  + **comparatif** : _De plus en plus beau._ וואָס  אַ  מאָל  שענער.
+**b)** **וואָס אַ מאָל**  + **comparatif** : 
 
-ער ווערט וואָס אַ מאָל קליגער.  _Il devient de plus en plus intelligent._
+>.וואָס  אַ  מאָל  שענער
+<br>De plus en plus beau.
 
-**c)**  pour rendre la progression d’un  processus au fur et à mesure que le temps passe on peut employer  :  **אַלץ וואָס ווײַטע**ר+ **comparatif**
+>.ער ווערט וואָס אַ מאָל קליגער
+<br>Il devient de plus en plus intelligent.
 
-וואָס ווײַטער אַלץ בעסער.  _De mieux en mieux._
+**c)**  pour rendre la progression d’un  processus au fur et à mesure que le temps passe on peut employer  :  **וואָס ווײַטער אַלץ** + **comparatif**
 
-וואָס ווײַטער אַלץ גרינגער.  _De plus en plus facile._
+>.וואָס ווײַטער אַלץ בעסער
+<br>De mieux en mieux.
 
-**2.  Pour exprimer la correspondance entre deux processus progressifs** on peut se servir de la conjonction **וואָס** + **comparatif +** **אַלץ** + **comparatif**
+>.וואָס ווײַטער אַלץ גרינגער
+<br>De plus en plus facile.
 
-וואָס עלט**ער** ( מען  ווערט) , **אַלץ** קליגער (ווערט מען).  _Plus on vieillit, plus on devient intelligent._
+**2.  Pour exprimer la correspondance entre deux processus progressifs** on peut se servir de la conjonction **וואָס** **+** **comparatif +** **אַלץ** **+** **comparatif** :
 
-וואָס דו וועסט דיר ווייניקער ווינטשן, אַלץ ווייניקער וועט דיר פֿעלן. (שפּריכוואָרט)
+>.וואָס עלט**ער** מען  ווערט, **אַלץ** קליגער ווערט מען
+<br>Plus on vieillit, plus on devient intelligent.
 
-_Moins tu ressentiras de désirs, moins tu ressentiras de manque. (proverbe)_
+>.וואָס דו וועסט דיר ווייניקער ווינטשן, אַלץ ווייניקער וועט דיר פֿעלן
+<br>Moins tu ressentiras de désirs, moins tu ressentiras de manque. (Proverbe)
 
 ### Le comparatif substantivé
 
-**Le comparatif** peut être **substantivé** et être utilisé comme **adverbe** :
+**Le comparatif** peut être **substantivé** et être utilisé comme **adverbe**.
 
-**1. Le comparatif peut être substantivé,** comme tout adjectif : il se décline alors (voir p. 7 )
+**1. Le comparatif peut être substantivé,** comme tout adjectif : il se décline alors (voir le chapitre ["Adjectifs substantivés"](adjectif1.md#adjectifs-substantives)).
 
-מענדל האָט צוויי זין : דער  **גרע׳סערער** אַרבעט און דער **קלע׳נערער**  גייט אין אוניווערסיטעט.
+>.מענדל האָט צוויי זין : דער  **גרע׳סערער** אַרבעט און דער **קלע׳נערער**  גייט אין אוניווערסיטעט<br>Mendl a deux fils : le plus grand travaille et le plus petit va à l’université.
 
-_Mendl a deux fils : le plus grand travaille et le plus petit va à l’université._
+>.דער **גרע׳סערער** איז אַוועקגעפֿאָרן פֿאַרן **קלע׳נערן**
+<br>Le plus grand est parti avant le plus petit.
 
-דער **גרע׳סערער** איז אַוועקגעפֿאָרן פֿאַרן **קלע׳נערן****.**
+>?רבי [_רעבע]_ צי מעג מען חתונה [_כאַסענע_] מאַכן אַ ייִנגערע טאָכטער פֿאַר **אַן עלטערער**
+<br>Rebe, a-t-on le droit de marier une fille plus jeune avant la plus âgée ? (Y.-L. Perets)
 
-_Le plus grand est parti avant  le plus petit._
+**2. Le comparatif peut être utilisé comme adverbe :**
 
-'' רבי [_רעבע]_ צי מעג מען חתונה [_כאַסענע_] מאַכן אַ ייִנגערע טאָכטער פֿאַר **אַן עלטערער**? " ( פּרץ)
+>.רעד שטילער
+<br>Parle plus bas.
 
-_Rebe, a-t-on le droit de marier une fille plus jeune avant la plus âgée ?(Perets)_
+>.זי לויפֿט גיכער
+<br>Elle court plus vite.
 
-**2. Le comparatif peut être utilisé comme adverbe:**
+### Le comparatif d'égalité (_aussi… que_)
 
-רעד שטילער_Parle plus bas.  ._  זי לויפֿט גיכער.  _Elle court plus vite._
+Il est formé des éléments suivants (lire de droite à gauche) :
 
-### Le comparatif d'égalité (*aussi… que*)
+**2ème terme de comp. + ווי + forme de base de l’adj. + אַזוי + verbe + 1er terme de comp.**
 
-**Il est formé** des éléments suivants (lire de Dte à G)
+**ער  איז  אַזוי  גרויס  ווי  איך**
 
-==>
+Les deux termes de la comparaison seront toujours au même cas : 
 
-**2° terme de comp. + ווי + forme de base de l’adj.+אַזוי +verbe + 1° terme de comp.**
+- au nominatif :
 
-==>  **ער  איז  אַזוי  גרויס  ווי  איך**
+    >.**ער** איז [אַזוי] גרויס ווי **איך**
+<br>**Il** est aussi grand que **moi**.
 
-(les deux termes de la comparaison seront toujours au même cas. Au nominatif, phrases 1et 2 ; à l’accusatif la phr. 3 ; au datif la phr. 4) :
+    >.**דער** זון איז [אַזוי] קלוג ווי **דער** פֿאָטער
+<br>Le  **fils** est aussi intelligent que le **père**.
 
-1. **ער** איז [אַזוי] גרויס ווי **איך****.**  **_Il_** _est aussi grand que **moi**._
 
-2. **דער** זון איז [אַזוי] קלוג ווי **דער** פֿאָטער.  _Le  **fils** est aussi intelligent que le **père**._
+- à l'accusatif :
 
-3. זיי האָבן **אים** פֿײַנט [אַזוי] ווי **דעם** טויט.  _Ils **le** détestent autant que la **mort**._
+    >.זיי האָבן **אים** פֿײַנט [אַזוי] ווי **דעם** טויט
+<br>Ils **le** détestent autant que la **mort**.
 
-4. ער שרעקט זיך פֿאַר**ן** ווײַב [אַזוי] ווי פֿאַר **דער** שוויגער.
+- au datif :
 
-_Il craint son **épouse** autant que sa **belle-mère**._
+    >.ער שרעקט זיך פֿאַר**ן** ווײַב [אַזוי] ווי פֿאַר **דער** שוויגער
+<br>Il craint son **épouse** autant que sa **belle-mère**.
 
-**Rq.** אַזוי peut être omis
-
+**Remarque.** **אַזוי** peut être omis.
 
 ### Le comparatif d'infériorité
 
-La forme « moins ….. que » n’étant presque jamais utilisée en yiddish, le comparatif d’infériorité peut être rendu par :
+La forme _moins ... que_ n’étant presque jamais utilisée en yiddish, le comparatif d’infériorité peut être rendu par :
 
-**1. La forme négative** **du comparatif d’égalité** (il convient alors de _toujours garder **אַזוי**_)**.**
+**1. La forme négative du comparatif d’égalité.** Il convient alors de toujours garder **אַזוי**.
 
-ער איז נישט אַזוי גרויס ווי איך.  _Il n’est pas aussi grand_ (=  _moins grand_) _que moi._
+>.ער איז נישט אַזוי גרויס ווי איך
+<br>Il n’est pas aussi grand (= moins grand) que moi.
 
-דער זון איז נישט אַזוי קלוג ווי דער פֿאָטער.
 
-_Le fils n’est pas aussi intelligent_ (= _moins intelligent_) _que le père._
+>.דער זון איז נישט אַזוי קלוג ווי דער פֿאָטער
+<br>Le fils n’est pas aussi intelligent (= moins intelligent) que le père.
 
 **2.  Le comparatif de supériorité :**
 
-Là où en français on peut dire « mon livre est moins grand que le tien », on dira en yiddish : _Ton livre est **plus grand** que le mien._ דײַן בוך איז גרעסער ווי מײַנס.
+Là où en français on peut dire « mon livre est moins grand que le tien », on dira en yiddish : 
 
-_Mon livre est **plus petit** que le tien._  מײַן בוך איז קלענער ווי דײַנס.
+>.דײַן בוך איז גרעסער ווי מײַנס
+<br>Ton livre est **plus grand** que le mien.
+
+>.מײַן בוך איז קלענער ווי דײַנס
+<br>Mon livre est **plus petit** que le tien.
 
 ## LE SUPERLATIF
 
@@ -350,7 +424,7 @@ Il exprime le degré supérieur d’une qualité par rapport à un ensemble ou d
 
 Le superlatif peut être formé de deux manières :
 
-- soit à l’aide du suffixe **–** **סט**  ajouté à la forme de base de l’adjectif
+- soit à l’aide du suffixe **סט-**  ajouté à la forme de base de l’adjectif
 
 - soit à l’aide de **סאַמע** placé avant l’adjectif.
 
@@ -391,49 +465,56 @@ Le superlatif peut être employé comme épithète ou comme attribut.
 **a) Employé comme épithète** il se décline : 
 
  - au masculin :
-   - nominatif :
-
-    דער ערגסטער שלום [_שאָלעם_] איז בעסער ווי די בעסטע מלחמה [_מילכאָמע_]. (שוו) .
-
-    _La pire des paix vaut mieux que la meilleure des guerres_ (proverbe)
+  
+     - nominatif :
+  
+        >.דער ערגסטער שלום [_שאָלעם_] איז בעסער ווי די בעסטע מלחמה
+    <br>La pire des paix vaut mieux que la meilleure des guerres. (Proverbe)
 
     - accusatif :  
 
-    אין שפּיגל זעט איטלעכער זײַן בעסטן פֿרײַנד. (שפּריכוואָרט) .
-
-    _Dans le miroir chacun voit son meilleur ami._ (proverbe)_._
+        >.אין שפּיגל זעט איטלעכער זײַן בעסטן פֿרײַנד
+<br>Dans le miroir chacun voit son meilleur ami. (Proverbe)
 
     - datif :
+    
+        >.מיטן גרעסטן פֿאַרגעניגן
+    <br>Avec le plus grand plaisir.
 
-    מיטן גרעסטן פֿאַרגעניגן.  _Avec le plus grand plaisir._ .
 
 - au féminin :
+  
+    >.געלט איז די בעסטע זייף, עס נעמט אַרויס דעם גרעסטן פֿלעק<br>L’argent est le meilleur savon, il élimine la plus grand tache. (Proverbe)
 
-געלט איז די בעסטע זייף, עס נעמט אַרויס דעם גרעסטן פֿלעק. (שוו)
+    >.איך האָב שוין טאַקע געפֿונען די שענסטע מאַרגאַריטקע אין וואַלד<br>J’ai déjà trouvé la plus belle marguerite de la forêt. (Z. Chneour)
 
-_L’argent est le meilleur savon, il élimine la plus grand tache._ (prov.)
+    >.געלט איז די בעסטע זייף, עס נעמט אַרויס דעם גרעסטן פֿלעק<br>L’argent est le meilleur savon, il élimine la plus grand tache. (Proverbe)
 
-איך האָב שוין טאַקע געפֿונען די שענסטע מאַרגאַריטקע אין וואַלד. (ז. שנאור)
+    >.ער וווינט אין דער קלענסטער דירה
+<br>Il habite dans le plus petit appartement.
 
-_J’ai déjà trouvé la plus belle marguerite de la forêt._ (Z. Chneour)
-
-ער וווינט אין דער קלענסטער דירה [_דירע_].  _Il habite dans le plus petit appartement._
 
 - au neutre :
 
-אַ פֿרײַנדלעך געזיכט איז דאָס בעסטע געזיכט. (שוו)_Un visage amical est le meilleur visage._
+    >.אַ פֿרײַנדלעך געזיכט איז דאָס בעסטע געזיכט
+<br>Un visage amical est le meilleur visage.
 
-דאָס ביטערסטע מזל [_מאַזל_] קען מען פֿאַרשטעלן מיט אַ שמייכל. (שוו)
+    >.דאָס ביטערסטע מזל קען מען פֿאַרשטעלן מיט אַ שמייכל
+<br>On peut masquer le destin le plus amer par un sourire. (proverbe)
 
-_On peut masquer le destin le plus amer par un sourire._
-
-פֿאַר דעם שוואַכסטן קינד._Pour l’enfant le plus faible._
+    >.פֿאַר דעם שוואַכסטן קינד
+<br>Pour l’enfant le plus faible.
 
 **b) Employé comme  attribut** il est au nominatif comme le sujet auquel il se rapporte et il s’accorde en genre et en nombre.
 
-_Elle est la meilleure._ זי איז די בעסטע.
+>.זי איז די בעסטע
+<br>Elle est la meilleure.
 
-_Il est le plus intelligent des élèves_ער איז דער קליגסטער  פֿון די שילער. _Maintenant c’est le pire moment._  איצט איז די ערגסטע צײַט  [דער ערגסטער מאָמענט].
+>.ער איז דער קליגסטער פֿון די שילער
+<br>Il est le plus intelligent des élèves.
+
+>.איצט איז די ערגסטע צײַט / דער ערגסטער מאָמענט
+<br>Maintenant c’est le pire moment.
 
 **c) Cas particulier** des adjectifs :
 
@@ -452,36 +533,47 @@ _Il est le plus intelligent des élèves_ער איז דער קליגסטער  פ
 Ces adjectifs sont en fait des superlatifs dont le comparatif n’existe pas. Ils peuvent être utilisés :
 
 - comme attributs :
-
-    זי איז די ערשטע. ער איז דער לעצטער.  _Elle est la première , il est le dernier._
+    
+    >.זי איז די ערשטע, ער איז דער לעצטער
+<br>Elle est la première, il est le dernier.
 
 - comme épithètes :
+    
+    >.אַן ערשט  מאָל / דאָס לעצטע מאָל
+<br>Une première fois / la dernière fois.
 
-    אַן ערשט  מאָל / דאָס לעצטע מאָל.  _Une première fois / la dernière fois._
+    >.אַן ערשט  מאָל / דאָס לעצטע מאָל
+<br>Pour la première et dernière fois.
 
-    צום ערשטן און לעצטן מאָל. _Pour la première et dernière fois._
+    >.מײַן ערשטער זון/ זײַן ערשטע טאָכטער
+<br>Mon premier fils / sa première fille.
 
-    מײַן ערשטער זון/ זײַן ערשטע טאָכטער.  _Mon premier fils / sa première fille  ._
-
-    דער אייבערשטער און דער אונטערשטער שטאָק.  _L’étage supérieur et l’étage inférieur._
+    >.דער אייבערשטער און דער אונטערשטער שטאָק
+<br>L’étage supérieur et l’étage inférieur.
 
 **Remarque 1.** Le superlatif  peut aussi être utilisé avec l’article indéfini :
 
-**אַ** קאָנקורס אויף **אַ** בעסטער דערציילונג.  _Un concours pour une meilleure nouvelle._
+>.**אַ** קאָנקורס אויף **אַ** בעסטער דערציילונג
+<br>Un concours pour une meilleure nouvelle.
 
-אַ בוך איז **אַ** ווערטפֿולסטע מתּנה [_מאַטאָנע_] פֿאַר אים.
 
-_Un livre est un cadeau de la plus grande valeur pour lui._
+>.אַ בוך איז **אַ** ווערטפֿולסטע מתּנה [_מאַטאָנע_] פֿאַר אים
+<br>Un livre est un cadeau de la plus grande valeur pour lui.
 
-נעמט צו **אַ** פֿרײַנדלעכסטן גרוס.  _Veuillez agréer ma salutation la plus amicale._
+>.נעמט צו **אַ** פֿרײַנדלעכסטן גרוס
+<br>Veuillez agréer ma salutation la plus amicale.
 
 **Remarque 2.** Pour exprimer **« le plus possible »** on utilise :
 
-**וואָס + adjectif au comparatif** :  קום וואָס  גיכער (_vient le plus vite possible)_
+**וואָס + adjectif au comparatif**  
 
-ou  **ווי  +** **צום/אַמ** + **adverbe au superlat. au masc. datif**: קום ווי **צום גיכסטן****.**
+ קום וואָס  גיכער _viens le plus vite possible_
 
-קום **ווי אַמגיכסטן.**
+ou  **צום/אַמ**  + **ווי** + **adverbe au superlat. au masc. datif**
+
+ קום ווי **צום גיכסטן**
+
+קום **ווי אַמגיכסטן**
 
 #### La construction avec  סאַמע suivi de l’adjectif décliné (forme analytique)
 
@@ -493,17 +585,21 @@ ou  **ווי  +** **צום/אַמ** + **adverbe au superlat. au masc. datif**: �
 
     איך הער זיך צו צו דער **סאַמע** אינטערעסאַנט**ער** לעקציע / ... צו דער אינטערעסאַנט**סטער** לעקציע
 
-  - pour des adjectifs se terminant par – סט (pour des raisons de prononciation) : וויסט, פּראָסט, פּוסט
+  - pour des adjectifs se terminant par **סט-** (pour des raisons de prononciation), tels que  וויסט ,פּראָסט, פּוסט
 
-    _La (les) plus désertique(s)_ די סאַמע וויסטע _Le plus vide_  דער סאַמע פּוסטער
+    _la (les) plus désertique(s)_ די סאַמע וויסטע 
+    
+    _le plus vide_  דער סאַמע פּוסטער
 
-    _Le plus simple_ דער סאַמע פּראָסטער
+    _le plus simple_ דער סאַמע פּראָסטער
 
 - On peut utiliser un **« double superlatif »** quand on veut insister :
 
-    _Le meilleur livre que j’ai lu._ דער **סאַמע**  **בעסטער** בוך וואָס איך האָב געלייענט.
+    >.דער **סאַמע**  **בעסטער** בוך וואָס איך האָב געלייענט
+    <br>Le meilleur livre que j’ai lu.
 
-    _La plus belle femme du monde._ די **סאַמע שענסטע** פֿרוי אויף דער וועלט.
+    >.די **סאַמע שענסטע** פֿרוי אויף דער וועלט
+    <br>La plus belle femme du monde.
 
 ### Une tournure idiomatique : שב
 

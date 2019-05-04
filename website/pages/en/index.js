@@ -61,11 +61,11 @@ const ProjectTitle = () => (
   <div>
   <h2 className="projectTitle">
     {siteConfig.title}
-    <small>{siteConfig.tagline}</small>
+    {/* <small>{siteConfig.tagline}</small> */}
   </h2>
   <h2 className="projectTitle">
     {siteConfig.yiddishTitle}
-    <small>{siteConfig.yiddishTagline}</small>
+    {/* <small>{siteConfig.yiddishTagline}</small> */}
   </h2>
   </div>
 );

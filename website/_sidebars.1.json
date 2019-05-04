@@ -1,0 +1,9 @@
+{"docs": {
+    "Introduction": ["intro1"],
+    "Adjectif": ["adjectif1", "adjectif2", "adjectif3", "adjectif4", "adjectif5", "adjectif6", "adjectif7"],
+    "Substantif": ["doc4"],
+    "Verbe": ["doc5"],
+    "Pronom": ["doc2"],
+    "Préposition": ["doc3"]
+  }
+}
