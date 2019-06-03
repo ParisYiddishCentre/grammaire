@@ -41,8 +41,8 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: 'intro1', label: 'Grammaire'},
-    {doc: 'apropos', label: 'À propos'},
-    {search: true}
+    {doc: 'apropos', label: 'À propos'}
+    // {search: false}
     /* {blog: false, label: 'Blog'}, */
   ],
 
@@ -104,8 +104,8 @@ const siteConfig = {
   cleanUrl: true,
 
   // Open Graph and Twitter card images.
-  ogImage: 'img/docusaurus.png',
-  twitterImage: 'img/docusaurus.png',
+  ogImage: '',
+  twitterImage: '',
 
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
@@ -118,11 +118,11 @@ const siteConfig = {
 
   docsSideNavCollapsible: true,
 
-  algolia: {
-    apiKey: '25626fae796133dc1e734c6bcaaeac3c',
+  /* algolia: {
+    apiKey: 'df911827f57186493251bc92906020da',
     indexName: 'docsearch',
     placeholder: 'Rechercher'
-  }
+  } */
 };
 
   

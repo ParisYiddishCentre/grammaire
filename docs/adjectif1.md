@@ -8,7 +8,7 @@ L’adjectif a en général deux formes selon sa fonction :
 - **Lorsqu’il est attribut** il ne se décline pas et reste invariable. Il est alors dans sa **forme de base** (forme courte). C’est la forme qu’on trouve dans le dictionnaire.
 - **Lorsqu’il est épithète** il s’accorde et se décline par l’ajout de suffixes à la forme de base. C’est la **forme déclinée** (forme longue).
 
-**Remarque.** Les exceptions à cette règle seront signalées.
+**Remarque.** Les exceptions à cette règle seront signalées (voir ch. ["Formes particulières"](adjectif1.md#formes-particulieres)).
 
 ## LA FORME DE BASE (FORME COURTE)
 
@@ -18,7 +18,7 @@ Elle n’est _jamais_ précédée d’un _article_.
 
 Elle est _invariable_ :
 
-<table>
+<table class="center-table">
   <tr>
     <td>L'homme est</td>
     <td>intelligent</td>
@@ -53,9 +53,9 @@ Elle est _invariable_ :
 
 Elle est formée par **l’ajout de suffixes à la forme de base**.
 
-Au singulier ces suffixes permettent :
+**Au singulier** ces suffixes permettent :
 
-- d’accorder l’adjectif en **genre** avec le nom auquel il se rapporte : nom  masculin, féminin ou neutre,
+- d’accorder l’adjectif en **genre** et en **nombre** avec le nom auquel il se rapporte : nom  masculin, féminin ou neutre,
 
 - de l’accorder selon **les trois cas** qui correspondent  aux trois fonctions que le nom peut avoir dans la phrase :  
   - **le nominatif :** correspond au cas **_sujet_** du verbe ;
@@ -64,9 +64,9 @@ Au singulier ces suffixes permettent :
 
   - **le datif :** correspond aux **_autres compléments_**.
 
-Au pluriel le même suffixe **ע–** s’ajoute  à tous les genres et tous les cas.
+**Au pluriel** le même suffixe **ע–** s’ajoute  à tous les genres et tous les cas.
 
-Elle est employée lorsque l’adjectif est **épithète** (placée directement à côté du nom).
+La forme déclinée est employée lorsque l’adjectif est **épithète** (placée directement à côté du nom).
 
 Elle est généralement  précédée d’un article, défini ou indéfini, ou de l’adjectif possessif (voir ch. ["L'adjectif possessif"](adjectif3.md)).
 
@@ -88,40 +88,40 @@ Au neutre, avec l’article indéfini, ou un adjectif possessif, l’adjectif re
 
 **a)** **Au nominatif** on  ajoute à la forme de base le suffixe :
 
-<div class="tg-wrap"><table>
+<table class="center-table">
   <tr>
     <td><span style="font-weight:bold">ער</span></td>
     <td>---</td>
     <td>au masculin</td>
     <td>=&gt;</td>
-    <td><span style="font-weight:bold">גוטער</span> מאַן שרײַבט</td>
+    <td>גוט<span style="font-weight:bold">ער</span> מאַן שרײַבט</td>
     <td>דער / אַ</td>
   </tr>
   <tr>
-    <td>ע</td>
+    <td><span style="font-weight:bold">ע</span></td>
     <td>---</td>
     <td>au féminin</td>
     <td>=&gt;</td>
-    <td><span style="font-weight:bold">גוטע</span> פֿרוי שרײַבט</td>
+    <td>גוט<span style="font-weight:bold">ע</span> פֿרוי שרײַבט</td>
     <td>די / אַ</td>
   </tr>
   <tr>
-    <td>ע</td>
+    <td><span style="font-weight:bold">ע</span></td>
     <td>---</td>
     <td>au neutre défini</td>
     <td>=&gt;</td>
-    <td><span style="font-weight:bold">גוטע</span> קינד שרײַבט</td>
+    <td>גוט<span style="font-weight:bold">ע</span> קינד שרײַבט</td>
     <td>דאָס</td>
   </tr>
   <tr>
     <td></td>
-    <td></td>
+    <td>---</td>
     <td>au neutre indéfini</td>
     <td>=&gt;</td>
     <td>גוט קינד שרײַבט</td>
     <td>אַ</td>
   </tr>
-</table></div>
+</table>
 
 À l’indéfini l’adjectif garde sa forme de base.
 
@@ -129,14 +129,14 @@ Au neutre, avec l’article indéfini, ou un adjectif possessif, l’adjectif re
 
 - féminin et neutre : les suffixes sont les mêmes qu’au nominatif : 
   
-  <div class="tg-wrap"><table>
+  <table class="center-table">
   <tr>
     <td><span style="font-weight:bold">ע</span></td>
     <td>---</td>
     <td>au féminin</td>
     <td>=&gt;</td>
-    <td><span style="font-weight:bold">גוטע</span> פֿרוי</td>
-    <td>דער / אַ</td>
+    <td>גוט<span style="font-weight:bold">ע</span> פֿרוי</td>
+    <td>די / אַ</td>
     <td>איך זע</td>
   </tr>
   <tr>
@@ -144,7 +144,7 @@ Au neutre, avec l’article indéfini, ou un adjectif possessif, l’adjectif re
     <td>---</td>
     <td>au neutre défini</td>
     <td>=&gt;</td>
-    <td><span style="font-weight:bold">גוטע</span> קינד</td>
+    <td>גוט<span style="font-weight:bold">ע</span> קינד</td>
     <td>דאָס</td>
     <td>איך זע</td>
   </tr>
@@ -157,12 +157,11 @@ Au neutre, avec l’article indéfini, ou un adjectif possessif, l’adjectif re
     <td>אַ</td>
     <td>איך זע</td>
   </tr>
-</table></div>
-
+</table>
 
 - au masculin : le suffixe de l’accusatif dépend de la dernière lettre de la forme de base. Lorsque la dernière lettre est : 
 
-  <div class="tg-wrap"><table>
+  <table>
   <tr>
     <td colspan="5"><span style="font-weight:bold">une consonne</span></td>
   </tr>
@@ -212,18 +211,71 @@ Au neutre, avec l’article indéfini, ou un adjectif possessif, l’adjectif re
     <td><span style="font-weight:bold">une exception נײַ</span></td>
     <td>le suffixe est <span style="font-weight:700">עם-</span><br></td>
     <td>=&gt;</td>
-    <td><span style="font-weight:bold">נײַיעם שילער</span></td>
+    <td><span style="font-weight:bold">נײַעם שילער</span></td>
     <td>איך זע דעם / אַ</td>
   </tr>
-</table></div>
+</table>
 
 **c) Au datif :**
 
-- au masculin les suffixes sont les mêmes qu’à l’accusatif, ils dépendent de la dernière lettre de la forme de base. Lorsque la dernière lettre est :
+- **au masculin** les suffixes sont les mêmes qu’à l’accusatif, ils dépendent de la dernière lettre de la forme de base. Lorsque la dernière lettre est :
 
-  ==Insert table==
+  <table>
+  <tr>
+    <td colspan="5"><span style="font-weight:bold">une consonne</span></td>
+  </tr>
+  <tr>
+    <td>- autre que ם ou ן</td>
+    <td>le suffixe est un <span style="font-weight:bold">ן- syllabique</span></td>
+    <td>=&gt;</td>
+    <td>שטאַרק<span style="font-weight:bold">ן</span>, גוט<span style="font-weight:bold">ן</span>, גרויס<span style="font-weight:bold">ן</span> מאַן</td>
+    <td>איך רעד מיט דעם / אַ</td>
+  </tr>
+  <tr>
+    <td>- un ם</td>
+    <td>le suffixe est <span style="font-weight:bold">ען-</span></td>
+    <td>=&gt;</td>
+    <td>פֿרומ<span style="font-weight:bold">ען</span> מאַן</td>
+    <td>איך רעד מיט דעם / אַ</td>
+  </tr>
+  <tr>
+    <td>- un ן</td>
+    <td>le suffixe est <span style="font-weight:bold">עם-</span></td>
+    <td>=&gt;</td>
+    <td>שיינ<span style="font-weight:bold">עם</span> מאַן</td>
+    <td>איך רעד מיט דעם / אַ</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><span style="font-weight:bold">une voyelle ou diphtongue</span></td>
+    <td>le suffixe est <span style="font-weight:bold">ען-</span><br></td>
+    <td>=&gt;</td>
+    <td>גראָ<span style="font-weight:bold">ען</span> / גרוי<span style="font-weight:bold">ען </span>מאַן</td>
+    <td>איך רעד מיט דעם / אַ</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><span style="font-weight:bold">une exception נײַ</span></td>
+    <td>le suffixe est <span style="font-weight:700">עם-</span><br></td>
+    <td>=&gt;</td>
+    <td><span style="font-weight:bold">נײַיעם שילער</span></td>
+    <td>איך רעד מיט דעם / אַ</td>
+  </tr>
+</table>
 
-- au neutre l’utilisation de l’article défini ou indéfini influe sur la terminaison de l’adjectif : 
+- **au neutre** l’utilisation de l’article défini ou indéfini influe sur la terminaison de l’adjectif : 
 
 	- **avec l’article défini** les suffixes sont les mêmes qu’au datif masculin, ils dépendent de la dernière lettre de la forme de base :
 
@@ -235,7 +287,7 @@ Au neutre, avec l’article indéfini, ou un adjectif possessif, l’adjectif re
 
     .איך רעד מיט אַ גרויס און שיין קינד
 
-- au féminin  la terminaison est **ער–** :
+- **au féminin**  la terminaison est **ער–** :
   
   איך קוק אויף דער גרויס**ער,** שיינ**ער** פֿרוי
 
@@ -257,11 +309,103 @@ Au neutre, avec l’article indéfini, ou un adjectif possessif, l’adjectif re
 
 - Au féminin défini et indéfini :
   
-  ==Insert table==
+  <div class="tg-wrap"><table class="center-table">
+  <tr>
+    <td>Nominatif</td>
+    <td><span style="font-weight:normal">שרײַבט</span><br></td>
+    <td>גוט<span style="font-weight:bold">ע</span></td>
+    <td>די / אַ</td>
+    <td>פֿרוי</td>
+    <td>די / אַ</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Accusatif<br></td>
+    <td></td>
+    <td>גוט<span style="font-weight:bold">ע</span></td>
+    <td>די / אַ</td>
+    <td>פֿרוי<br></td>
+    <td>די / אַ</td>
+    <td>איך זע</td>
+  </tr>
+  <tr>
+    <td>Datif</td>
+    <td></td>
+    <td>גוט<span style="font-weight:bold">ער</span></td>
+    <td>דער / אַ</td>
+    <td>פֿרוי</td>
+    <td>דער / אַ</td>
+    <td>איך רעד מיט</td>
+  </tr>
+</table></div>
 
 - au masculin défini et indéfini les terminaisons dépendent de la dernière lettre de l’adjectif à l’accusatif et datif :
 
-  ==Insert table==
+  <div class="tg-wrap"><table>
+  <tr>
+    <td>Nominatif<br></td>
+    <td><span style="font-weight:normal;font-style:inherit">שרײַבט</span></td>
+    <td>גוט<span style="font-weight:bold">ער</span><br></td>
+    <td><span style="font-weight:normal">דער / אַ</span></td>
+    <td>מאַן<br></td>
+    <td><span style="font-weight:normal">דער / אַ</span></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Accusatif</td>
+    <td></td>
+    <td>גוט<span style="font-weight:bold">ן</span>, פֿרומ<span style="font-weight:bold">ען</span>, שיינ<span style="font-weight:bold">עם</span></td>
+    <td><span style="font-weight:normal">דעם / אַ</span></td>
+    <td>מאַן</td>
+    <td><span style="font-weight:normal">דעם / אַ</span></td>
+    <td>איך זע</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>גרוי<span style="font-weight:bold">ען</span>, שיינ<span style="font-weight:bold">עם</span></td>
+    <td><span style="font-weight:normal">דעם / אַ</span></td>
+    <td>מאַן</td>
+    <td><span style="font-weight:normal">דעם / אַ</span></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Datif</td>
+    <td></td>
+    <td>גוט<span style="font-weight:bold">ן</span>, פֿרומ<span style="font-weight:bold">ען</span>, שיינ<span style="font-weight:bold">עם</span></td>
+    <td><span style="font-weight:normal">דעם / אַ</span></td>
+    <td>מאַן</td>
+    <td><span style="font-weight:normal">דעם / אַ</span></td>
+    <td>איך רעד מיט</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>גרוי<span style="font-weight:bold">ען</span>, שיינ<span style="font-weight:bold">עם</span></td>
+    <td><span style="font-weight:normal">דעם / אַ</span></td>
+    <td>מאַן</td>
+    <td><span style="font-weight:normal">דעם / אַ</span></td>
+    <td></td>
+  </tr>
+</table></div>
 
   **Remarque.** Lorsque plusieurs adjectifs sont placés après le nom, la répétition de l’article s’impose devant le premier adjectif et est admise devant les adjectifs suivants :
 
@@ -271,7 +415,62 @@ Au neutre, avec l’article indéfini, ou un adjectif possessif, l’adjectif re
 
 - au neutre défini :
 
-  ==Insert table==
+  <div class="tg-wrap"><table>
+  <tr>
+    <td>Nominatif<br></td>
+    <td><span style="font-weight:normal;font-style:inherit">שרײַבט</span></td>
+    <td>גוט<span style="font-weight:bold">ע</span><br></td>
+    <td><span style="font-weight:normal">דאָס</span></td>
+    <td>קינד<br></td>
+    <td><span style="font-weight:normal">דאָס</span></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Accusatif</td>
+    <td></td>
+    <td>גוט<span style="font-weight:bold">ע</span><br></td>
+    <td><span style="font-weight:normal">דאָס</span></td>
+    <td>קינד</td>
+    <td><span style="font-weight:normal">דאָס</span></td>
+    <td>איך זע</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Datif</td>
+    <td></td>
+    <td>גוט<span style="font-weight:bold">ן</span>, פֿרומ<span style="font-weight:bold">ען</span>, שיינ<span style="font-weight:bold">עם</span></td>
+    <td>דעם</td>
+    <td>קינד</td>
+    <td><span style="font-weight:normal">דעם</span></td>
+    <td>איך רעד מיט</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>גרוי<span style="font-weight:bold">ען</span>, נ<span style="font-weight:normal;font-style:inherit">ײַ</span><span style="font-weight:bold">עם</span></td>
+    <td>דעם</td>
+    <td>בוך<br></td>
+    <td><span style="font-weight:normal">דעם</span></td>
+    <td>איך קוק אויף<br></td>
+  </tr>
+</table></div>
 
 **b) Les suffixes de la déclinaison sont différents** au neutre indéfini selon la place de l’adjectif  :
 
@@ -279,17 +478,85 @@ Au neutre, avec l’article indéfini, ou un adjectif possessif, l’adjectif re
 
 -  après le nom la terminaison est **ס–** aux trois cas.
 
+    <div class="tg-wrap"><table>
+      <tr>
+        <td>Nominatif<br></td>
+        <td>שרײַבט</td>
+        <td>אַ קינד אַ <span style="font-weight:bold">גוטס</span><br></td>
+        <td></td>
+        <td>&lt;=<br></td>
+        <td>שרײַבט<br></td>
+        <td>אַ <span style="font-weight:bold">גוט </span>קינד</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Accusatif</td>
+        <td></td>
+        <td>אַ קינד אַ <span style="font-weight:bold">גוטס</span></td>
+        <td>איך זע</td>
+        <td>&lt;=</td>
+        <td></td>
+        <td>אַ <span style="font-weight:bold">גוט </span>קינד</td>
+        <td>איך זע</td>
+      </tr>
+      <tr>
+        <td>Datif</td>
+        <td></td>
+        <td>אַ קינד אַ <span style="font-weight:bold">גוטס</span></td>
+        <td>איך רעד מיט</td>
+        <td>&lt;=</td>
+        <td></td>
+        <td>אַ <span style="font-weight:bold">גוט </span>קינד</td>
+        <td>איך רעד מיט</td>
+      </tr>
+    </table></div>
+
 La déclinaison se fait aussi comme avec l’article indéfini :
 
-- en l’absence d’article שיין מיידעלע  =>  מיידעלע שיינ**ס**
+- en l’absence d’article :
+    
+     שיין מיידעלע  =>  מיידעלע שיינ**ס**
 
 - lorsqu’un adjectif possessif précède l’adjective épithète. Comparez :
+
+  <div class="tg-wrap"><table>
+    <tr>
+      <td>Nominatif<br></td>
+      <td>שפּילט זיך</td>
+      <td><span style="font-weight:bold">מײַן שיין</span> מיידעלע<br></td>
+      <td></td>
+      <td></td>
+      <td>שפּילט זיך<br></td>
+      <td><span style="font-weight:bold">אַ שיין </span>מיידעלע<br></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>Accusatif</td>
+      <td></td>
+      <td><span style="font-weight:bold">מײַן שיין </span>מיידעלע<br></td>
+      <td>איך זע</td>
+      <td></td>
+      <td></td>
+      <td><span style="font-weight:bold">אַ שיין</span> מיידעלע</td>
+      <td>איך זע</td>
+    </tr>
+    <tr>
+      <td>Datif</td>
+      <td></td>
+      <td><span style="font-weight:bold">מײַן שיין</span> מיידעלע<br></td>
+      <td>איך רעד מיט</td>
+      <td></td>
+      <td></td>
+      <td><span style="font-weight:bold">אַ שיין</span> מיידעלע</td>
+      <td>איך רעד מיט</td>
+    </tr>
+  </table></div>
 
   מײַן שיין מיידעלע  =>  שיין מיידעלע מײַנ**ס**
 
 **c) Au pluriel un seul suffixe ע-** est valable pour tous les genres et tous les cas :
 
-- avec l’article défini : 
+- avec l’article défini :
   
   דאָס קליינע קינד => די קליינ**ע** קינדער  => די קינדער די קליינ**ע**
 
@@ -305,15 +572,15 @@ Voir les [2 tableaux récapitulatifs de la déclinaison des adjectifs](adjectif1
 
 On intercale un **ע** à toutes les formes déclinées sauf au neutre indéfini.
 
-Dans le dictionnaire un point hautsignale la place de cet  **ע** dans la forme  de base.
+Dans le dictionnaire un point haut **˙** signale la place de cet  **ע** dans la forme  de base.
 
-אייד.ל => אָט איז דער/אַן  אייד**ע**לער מאַן, די/אַן  אייד**ע**לע פֿרוי, דאָס  אייד**ע**לע קינד
+אייד˙ל => אָט איז דער/אַן  אייד**ע**לער מאַן, די/אַן  אייד**ע**לע פֿרוי, דאָס  אייד**ע**לע קינד
 
 איך  זע דעם / אַן אייד**על**ן מאַן,  די / אַן אייד**ע**לע פֿרוי,  דאָס  אייד**ע**לע קינד
 
 אָט איז אַן איידל קינד, אַ קינד אַן איידל**ס  /** איך זע אַן איידל קינד,  אַ קינד אַן איידל**ס**
 
-אָפֿ.ן  =>  דער /אַן אָפֿ**ע**נער טויער, די אָפֿ**ע**נע טיר, דאָס אָפֿ**ע**נע  פֿענצטער,  אַן אָפֿן פֿענצטער 
+אָפֿ˙ן  =>  דער /אַן אָפֿ**ע**נער טויער, די אָפֿ**ע**נע טיר, דאָס אָפֿ**ע**נע  פֿענצטער,  אַן אָפֿן פֿענצטער 
 
 _Le portail ouvert, la porte ouverte, la fenêtre ouverte, une fenêtre ouverte._
 
@@ -410,7 +677,7 @@ Mais lorsque le nom de la matière se termine par **ער-**  il n’y a pas de *
 
 On peut dire:  דער וואָלענער מאַנטל, די קופּערנע פֿאַן, דאָס זײַדענע קלייד
 
-Mais on ne peut dire : דער מאַנטל איז וואָלן, די פֿאַן איז קופּערן, דאָס קלייד איז זײַדן
+Mais on ne peut dire : <strike>דער מאַנטל איז וואָלן, די פֿאַן איז קופּערן, דאָס קלייד איז זײַדן</strike>
 
 On dira : דאָס קלײַד איז פֿון זײַד, דער מאַנטל איז פֿון וואָל, די פֿאַן איז פֿון קופּער
 
@@ -454,13 +721,13 @@ Les adjectifs formés à partir de noms de villes ou de pays par ajout du suffix
 
 - ׳**אַנער** :
   
-   אַמעריקע => אַמעריקאַ**׳נער** 
+   אַמע׳ריקע => אַמעריקאַ**׳נער** 
    
-    אַפֿריקע => אַפֿריק**אַ׳נער**
+    אַ׳פֿריקע => אַפֿריק**אַ׳נער**
 
 - **עווער** :
   
-   וואַרשע  וואַרשעווער
+  וואַרשע =>  וואַרש**עווער**
 
 Ces adjectifs sont **invariables** :
 
@@ -514,11 +781,11 @@ Comme éphtètes ils se déclinent normalement.
 
   טרייף => _ce saucisson est non cacher_ דער וווּרשט איז טרייף
 
-- comme épithète **משוגע+ן**  avec un **ע** intercalaire lors des déclinaisons :  
+- comme épithète **משוג˙+ן**  avec un **ע** intercalaire lors des déclinaisons :  
   
   דער משו׳ג**ע**נער מאַן,  מיט דעם משוג**ע**נעם מאַן,  אַ משוגן לעבן
 
-  **טרייף** **=> טרייפֿ.ן** :  דער טרייפֿ**ע**נער וווּרשט
+  **טרייף** **=> טרייפֿ˙ן** :  דער טרייפֿ**ע**נער וווּרשט
 
 **d) L’adjectif גרויס**  reste invariable dans des expressions toutes faites décrivant des sentiments ou des états. Cet emploi est fréquent. On peut le comparer au français « grand peur », « grand peine » :
 
@@ -682,81 +949,48 @@ Voir suffixes des adjectifs [לעך-](adjectif4.md#le-suffixe-לעך) et [יטש
 
 ## TABLEAU RECAPITULATIF : ADJECTIFS PLACÉS AVANT LE NOM SINGULIER
 
-NEUTRE
+<div class="tg-wrap"><table>
+  <tr>
+    <td></td>
+    <td></td>
+    <td>Neutre</td>
+    <td>Feminin</td>
+    <td>Masculin</td>
+    <td></td>
+  </tr>
+  <tr style="background-color:white">
+    <td><span style="font-weight:bold">Nominatif</span> (sujet)</td>
+    <td><span style="font-weight:normal">שרײַבט</span></td>
+    <td><span style="font-weight:normal">דאָס</span><span style="font-weight:bold"> ---ע</span><span style="font-weight:normal">  קינד</span><br><br><span style="font-weight:normal">אַ </span><span style="font-weight:bold">--- </span><span style="font-weight:normal">קינד</span><br></td>
+    <td>די / אַ <span style="font-weight:bold">---ע</span> פֿרוי</td>
+    <td>דער / אַ <span style="font-weight:bold">---ער </span>מאַן <br></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td><span style="font-weight:bold">Accusatif </span>(COD)</td>
+    <td></td>
+    <td>דאָס <span style="font-weight:bold">---ע</span> קינד<br><br>אַ <span style="font-weight:bold">--- </span>קינד<br></td>
+    <td>די / אַ <span style="font-weight:bold">---ע</span> פֿרוי</td>
+    <td style="background-color:lightgrey">דעם / אַ <span style="font-weight:bold">---עם </span>מאַן<br><br>מ<span style="font-weight:bold">ען</span>--<br>נ<span style="font-weight:bold">עם</span>--<br><span style="font-weight:bold">ען</span>--**<br>נ<span style="font-weight:normal">ײַ</span> עם<br></td>
+    <td>איך זע</td>
+  </tr>
+  <tr style="background-color:white">
+    <td><span style="font-weight:bold">Datif</span> (autres)</td>
+    <td></td>
+    <td style="background-color:lightgrey">דעם / אַ <span style="font-weight:bold">---עם </span>קינד <br><br>מ<span style="font-weight:bold">ען</span>--<br>נ<span style="font-weight:bold">עם</span>--<br><span style="font-weight:bold">ען</span>--**<br>נ<span style="font-weight:normal">ײַ</span> עם<br><br>אַ --- קינד</td>
+    <td>דער / אַ <span style="font-weight:bold">---ער </span>פֿרוי</td>
+    <td style="background-color:lightgrey">דעם / אַ <span style="font-weight:bold">---עם </span>מאַן <br><br>מ<span style="font-weight:bold">ען</span>--<br>נ<span style="font-weight:bold">עם</span>--<br><span style="font-weight:bold">ען</span>--**<br>נ<span style="font-weight:normal">ײַ</span> עם<br></td>
+    <td>איך רעד מיט</td>
+  </tr>
+  <tr>
+    <td colspan="6"><span style="font-weight:bold">Au pluriel n’existe qu’un seule terminaison ע- valable pour tous les genres et tous les cas.</span><br></td>
+  </tr>
+</table></div>
 
-FEMININ
-
-MASCULIN
-
-**Nominatif**
-
-( sujet)
-
-שרײַבט
-
-דאָס  -  -  - **ע** קינד
-
-אַ -  -  -  קינד
-
-די/אַ -  -  -  **ע** פֿרוי
-
-דער/אַ  -  -  - **ער** מאַן
-
-**Accusatif** (complém. d’obj. Dir.)
-
-דאָס  - - - **ע** קינד
-
-אַ - - - קינד
-
-די/אַ  - - - **ע**  פֿרוי
-
-דעם/אַ - - *  **ן** מאַן
-
-- - מ  **ען**
-
-- - נ  **עם**
-
-- -** **ען**  [נײַעם]
-
-איך
-
-זע
-
-**Datif**
-
-(autres)
-
-דעם  - - * **ן** קינד
-
-- - מ **ען**
-
-- -- נ **עם**
-
-- -**  **ען**
-
-(נײַ  עם)
-
-אַ ---  קינד
-
-דער/אַ  -  -  - **ער פֿרוי** **ר**
-
-דעם/אַ  - -  *  **ן** מאַן
-
-- - מ **ען**
-
-- - נ **עם**
-
-- -  **  **ען**
-
-[נײַ  עם]
-
-איך רעד מיט
-
-**Au pluriel n’existe qu’un seule terminaison ע- valable pour tous les genres et tous les cas**.
 
 - **---** représentent tous les adjectifs  dans leur forme courte (non déclinée) tels que vous les trouvez dans le dictionnaire :
 
-  - dans les cases blanches vous pouvez placer n’importe quel adjectif (sauf quelques adjectifs, cf p.2) sans vous préoccuper  de la dernière lettre de sa forme de base ;
+  - dans les cases blanches vous pouvez placer n’importe quel adjectif (sauf quelques adjectifs, voir ch. ["Formes particulières"](adjectif1.md#formes-particulieres)) sans vous préoccuper  de la dernière lettre de sa forme de base ;
 
   - dans les cases grisées (masculin accusatif et datif utilisés avec l’article défini ou indéfini et le neutre datif utilisé avec l’article défini)  vous devez tenir compte de la dernière lettre de l’adjectif de base selon les indications données.
 
@@ -766,81 +1000,7 @@ MASCULIN
 
 ## TABLEAU RECAPITULATIF : ADJECTIFS PLACES APRÈS LE NOM SINGULIER
 
-NEUTRE
-
-FEMININ
-
-MASCULIN
-
-**Nominatif**
-
-( sujet)
-
-שרייַבט
-
-דאָס  קינד דאָס  ---  **ע**
-
-אַ  קינד  אַ ---**ס**
-
-די פֿרוי די ---  **ע**
-
-אַ  אַ
-
-דער מאַן דער ---  **ער**
-
-אַ  אַ
-
-**Accusatif** (complém. d’obj. Dir.)
-
-דאָס קינד  דאָס ---  **ע**
-
-אַ  קינד  אַ ---**ס**
-
-די פֿרוי די ---  **ע**
-
-אַ  אַ
-
-דעם מאַן _דעם_ -  -  *  **ן**
-
-אַ  אַ
-
-- - מ **ען**
-
--  -נ **עם**
-
-- -**  **ען**
-
-[נײַ  עם]
-
-איך זע
-
-**Datif**
-
-(autres)
-
-דעם קינד דעם - - * **ן**
-
--  - מ **ען**
-
-- - נ  עם -  -  -**  ען* [  [ נײַעם]
-
-אַ  קינד  אַ ---  **ס**
-
-דער פֿרוי דער ---  **ער** אַ  אַ
-
-דעם מאַן דעם - -  *  **ן**
-
-אַ  אַ
-
-- - מ **ען**
-
-- -נ **עם**
-
-- -  **  **ען**
-
-[נײַ  עם]
-
-איך רעד מיט
+===Insert table ===
 
 **Au pluriel n’existe qu’une seule terminaison ע- pour les 3 cas et les 3 genres.**
 

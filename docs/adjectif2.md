@@ -337,8 +337,7 @@ Le 1er comparatif peut être précédé de **אַלץ** :
 >.וואָס עלט**ער** מען  ווערט, **אַלץ** קליגער ווערט מען
 <br>Plus on vieillit, plus on devient intelligent.
 
->.וואָס דו וועסט דיר ווייניקער ווינטשן, אַלץ ווייניקער וועט דיר פֿעלן
-<br>Moins tu ressentiras de désirs, moins tu ressentiras de manque. (Proverbe)
+>.וואָס דו וועסט דיר ווייניקער ווינטשן, אַלץ ווייניקער וועט דיר פֿעלן<br>Moins tu ressentiras de désirs, moins tu ressentiras de manque. (Proverbe)
 
 ### Le comparatif substantivé
 
@@ -484,11 +483,9 @@ Le superlatif peut être employé comme épithète ou comme attribut.
 
 - au féminin :
   
-    >.געלט איז די בעסטע זייף, עס נעמט אַרויס דעם גרעסטן פֿלעק<br>L’argent est le meilleur savon, il élimine la plus grand tache. (Proverbe)
+    >.געלט איז **די בעסטע זייף**, עס נעמט אַרויס דעם גרעסטן פֿלעק<br>L’argent est le meilleur savon, il élimine la plus grand tache. (Proverbe)
 
     >.איך האָב שוין טאַקע געפֿונען די שענסטע מאַרגאַריטקע אין וואַלד<br>J’ai déjà trouvé la plus belle marguerite de la forêt. (Z. Chneour)
-
-    >.געלט איז די בעסטע זייף, עס נעמט אַרויס דעם גרעסטן פֿלעק<br>L’argent est le meilleur savon, il élimine la plus grand tache. (Proverbe)
 
     >.ער וווינט אין דער קלענסטער דירה
 <br>Il habite dans le plus petit appartement.
@@ -542,14 +539,14 @@ Ces adjectifs sont en fait des superlatifs dont le comparatif n’existe pas. Il
     >.אַן ערשט  מאָל / דאָס לעצטע מאָל
 <br>Une première fois / la dernière fois.
 
-    >.אַן ערשט  מאָל / דאָס לעצטע מאָל
+    >.צום ערשטן  מאָל / צום לעצטן מאָל
 <br>Pour la première et dernière fois.
 
     >.מײַן ערשטער זון/ זײַן ערשטע טאָכטער
 <br>Mon premier fils / sa première fille.
 
-    >.דער אייבערשטער און דער אונטערשטער שטאָק
-<br>L’étage supérieur et l’étage inférieur.
+    >.אויף דעם אייבערשטן און דעם אונטערשטן שטאָק
+<br>À l’étage supérieur et à l’étage inférieur.
 
 **Remarque 1.** Le superlatif  peut aussi être utilisé avec l’article indéfini :
 

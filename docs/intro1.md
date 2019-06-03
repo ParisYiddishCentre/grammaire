@@ -16,5 +16,5 @@ Les chapitres en préparation sont :
 - **Article**
 - **Adverbe**
 - **Coordonnant**
-- **Conjonctionsde subordination**
+- **Conjonction de subordination**
 - **Ordre des mots**

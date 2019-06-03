@@ -1,6 +1,6 @@
 ---
 id: adjectif4
-title: Les suffixes servant à former des adjectifs
+title: Les suffixes adjectivaux
 ---
 
 En venant s’ajouter à des noms, des racines verbales, des adverbes, des adjectifs et même des locutions ils forment de très nombreux adjectifs.
@@ -33,11 +33,11 @@ Le suffixe יק- forme des adjectifs par ajout à :
 
  הײַנט**יק** _d’aujourd’hui, contemporain_
 
-דערווײַל**יק** _temporaire_ 
+דערווײַ׳ל**יק** _temporaire_ 
 
-פֿאַרנאַכט**יק** _vespéral_ 
+פֿאַרנאַ׳כט**יק** _vespéral_ 
 
-אויבנאויפֿ**יק** _superficiel_ 
+אויבנאוי׳פֿ**יק** _superficiel_ 
 
 נאָכאַנאַ׳נד**יק**  _continu_
 
@@ -141,7 +141,7 @@ Le suffixe יק- forme des adjectifs par ajout à :
 
  רעש**יק**  _bruyant_ 
 
-מעת־לע׳ת**יק**  _d’une durée de 24heures_
+מעת־לע׳ת**יק**  _d’une durée de 24 heures_
 
 מעבֿר־לי’מ**יק** _provenant de  ou concernant l’outre mer_
 
@@ -255,15 +255,15 @@ Ces suffixes sont très proches du suffixe **דיק-**. Ils sont ajoutés à des
     
     באַמע׳רק**עוודיק** _remarquable_
 
-**2.  Le suffixe עדיק- est pratiquement comme le jumeau de ענדיק-.**
+**2.  Le suffixe עדיק- est pratiquement le jumeau de ענדיק-.**
 
 Il est formé à partir du participe présent mais avec une nette différence de sens :
 
 שטייענדיק _qui est actuellement debout_ alors que  שטיי**עדיק** _stagnant, immobile, qui garde usuellement la position debout_, p. e. שטיי**עדיקער** לאָמפּ _lampadaire_
 
-לעבנדיק אין פֿראַנקרײַך _en vivant en France_ vs. לעב**עדיקע** חיה un animal vivant
+לעב**נדיק** אין פֿראַנקרײַך _en vivant en France_ vs. לעב**עדיקע** חיה un animal vivant
 
-שרײַענדיק _qui est en train de crier_ vs שרײַ**עדיק** _criard
+שרײַענדיק _qui est en train de crier_ vs שרײַ**עדיק** _criard_
 
 Dans la majorité des cas il pourrait être remplacé par le suffixe **יק-**.
 
@@ -273,7 +273,7 @@ Dans la majorité des cas il pourrait être remplacé par le suffixe **יק-**.
  
  קלע׳פּ**עדיק** /קלעפּ**יק** _collant_
 
-**Remarque.** À signaler que ces suffixes de 2 syllabes ne portent pas d’accent, l’accent du mot « d’origine » ne s’est pas déplacé, l’adjectif ainsi formé est accentué sur l’antépénultième.
+**Remarque.** À signaler que ces suffixes de 2 syllabes ne portent pas d’accent, l’accent du mot « d’origine » ne s’étant pas déplacé. L’adjectif ainsi formé est accentué sur l’antépénultième.
 
 שטיי׳ן  => שטיי׳עדיק
 
@@ -635,7 +635,7 @@ Mais dans le cas de **ייִדישלעך**  on insiste sur le caractère yiddish
 
 Noter que  גײַסטלעך _clérical, du clergé_ diffère de  גײַסטיק  _spirituel_.
 
-### Suffixes empruntés
+### Suffixes empruntés d'origine germanique
 
 Trois suffixes  empruntés tardivement à l’allemand n’ont gardé qu’un petit nombre d’adjectifs.
 
@@ -667,7 +667,7 @@ Trois suffixes  empruntés tardivement à l’allemand n’ont gardé qu’un pe
 
 לאַ׳נגזאַם _lent_
 
-### Suffixes d'origine slave
+### Suffixes empuntés d'origine slave
 
 Plusieurs sont utilisés.
 

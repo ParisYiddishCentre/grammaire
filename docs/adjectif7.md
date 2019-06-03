@@ -7,7 +7,7 @@ title: Adjectifs numéraux
 
 **1. Ils servent à compter, calculer, dénombrer.**
 
-<table>
+<table class="center-table">
   <tr>
     <td></td>
     <td></td>
@@ -300,6 +300,8 @@ Cela s’est passé dans les années trente.
     >.ער איז אַ דרײַסיקער / זעכציקער
 <br>Il a la trentaine / soixantaine.
 
+**Remarque.** ער האָט אַ פֿופֿציקער signifie _il a un billet de cinquante_.
+
 **b) Le suffixe ערליי–**
 
 Ce suffixe après un cardinal forme un adjectif invariable signifiant « qui est  de 2, 3, 10, 100… sortes, espèces ».
@@ -367,10 +369,10 @@ Ajouté au cardinal jusqu’à 10, précédé de אין exprime l’idée de par
 
     איין a une valeur numérique et ne doit pas être employé comme article indéfini. Comparez :
 
-    >.איך האָב איין בוך פֿון שלום־עליכם
+    >.איך האָב אַ בוך פֿון שלום־עליכם
 <br>J’ai un livre de Sholem Aleykhem (sans préciser lequel).
 
-    >.איך האָב געלייענט איין בוך פֿון שלום־עליכם
+    >.איך האָב געלייענט (בלויז) איין בוך פֿון שלום־עליכם
 <br>J’ai lu un seul livre de Sholem Aleykhem.
 
     >.איך האָב געלייענט איינס אַ בוך פֿון שלום־עליכם
@@ -464,7 +466,7 @@ Ils sont formés par l’ajout :
 
 **b)** puis du suffixe de la déclinaison (ici ער– du nominatif masculin) pour obtenir la **forme longue** qui est la **seule utilisée**.
 
-<table>
+<table class="center-table">
   <tr>
     <td><span style="font-weight:normal">דער ערשטער</span></td>
     <td><span style="font-weight:normal">איינס</span></td>
@@ -697,7 +699,7 @@ Aujourd’hui nous sommes le 19 février.
 
 **2. Ils peuvent être substantivés.**
 
->.אדער דריטער איז אָנגעקומען נעכטן און דער פֿערטער וועט אָנקומען מאָרגן
+>.דער דריטער איז אָנגעקומען נעכטן און דער פֿערטער וועט אָנקומען מאָרגן
 <br>
 Le troisième est arrivé hier et le quatrième arrivera demain.
 

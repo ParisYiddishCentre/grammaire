@@ -139,7 +139,7 @@ La forme longue se décline comme tous les adjectifs.
   </tr>
 </table></div>
 
-Dans le tableau ci-dessus  **---** représente  la forme de base l’adjectif possessif.
+Dans le tableau ci-dessus  **---** représente  la forme de base de l’adjectif possessif.
 
 - dans les cases blanches la terminaison indiquée est valable pour tous les adjectifs possessifs;
 
@@ -160,9 +160,9 @@ La forme longue peut être épithète ou attribut.
 
 **1.** Lorsque le nom est utilisé avec **l’article défini**, l’adjectif est placé **après le nom**. Cet emploi donne à la phrase une tournure idiomatique et permet d’exprimer diverses nuances (emphase, ironie).
 
-La forme déclinée s’accorde** en genre et en nombre  **avec l’objet possédé**.
+La forme déclinée s’accorde en genre et en nombre  **avec l’objet possédé**.
 
-מײַן טאַטע =>  דער טאַטע מײַנער _mon père_ 
+מײַן טאַטע =>  דער טאַטע מײַנער _mon père_
 
 מײַן מאַמע  =>  די מאַמע  מײַנע _ma mère_
 
@@ -170,7 +170,7 @@ La forme déclinée s’accorde** en genre et en nombre  **avec l’objet possé
 
 מײַנע קינדער  =>  די קינדער מײַנע _mes enfants_
 
-Attention au genre du possesseur, à la 3ème personne du singulier:
+**Attention** au genre du possesseur, à la 3ème personne du singulier:
 
 - lorsque le possesseur est masculin, le possessif est **זײַן** :
   
@@ -208,7 +208,7 @@ et se décline :
 
 ### La forme longue attribut
 
-La forme longue est attribut lorsqu’elle est reliée au nom  (ou pronom) auquel elle se rapporte par le verbe **זײַן** (ou un autre verbe d’état : בלײַבן, אויסזען, אויסקוקן _paraître, sembler_, _rester_). Il est attribut du sujet donc au nominatif  (masculin, féminin, neutre singulier et pluriel).
+La forme longue est attribut lorsqu’elle est reliée au nom  (ou pronom) auquel elle se rapporte par le verbe **זײַן** (ou un autre verbe d’état : בלײַבן, אויסזען, אויסקוקן _paraître, sembler_, _rester_). Elle est attribut du sujet donc au nominatif (masculin, féminin, neutre singulier et pluriel).
 
 >.**_דער_** מאַנטל איז **מײַנער** / **דײַנער** / **זײַנער**
 <br>Le manteau est mien / tien / sien (à moi, à toi, à lui).
@@ -291,7 +291,7 @@ Comparez :
 
 **b) L’expression _mon, (ton, son ...) semblable_** est rendue en yiddish par :
 
-l’adjectif possessif au neutre + גלײַכן =>  מײַנס, ( דײַנס, זײַנס... ) גלײַכן
+**l’adjectif possessif au neutre + גלײַכן =>  מײַנס, ( דײַנס, זײַנס... ) גלײַכן**
 
 >.נישט קיין אָרעמאַן, מײַנס גלײַכן, נאָר אַ גבֿיר
 <br>Pas un pauvre, mon semblable, mais un  richard. (Boreysho)
