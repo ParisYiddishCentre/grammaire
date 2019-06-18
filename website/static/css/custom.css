@@ -60,3 +60,7 @@ body {
 .center-table {
     margin-left: 5rem;
 }
+
+blockquote {
+    text-align: right !important;
+}
