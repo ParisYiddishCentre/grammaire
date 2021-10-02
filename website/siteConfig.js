@@ -26,12 +26,7 @@ const siteConfig = {
   yiddishTagline: 'צונויפֿגעשטעלט דורך אַהרן וואַלדמאַן',
   tagline: 'par Aron Waldman',
   url: 'https://grammaire.yiddish.paris', // Your website URL
-  baseUrl: '/', // Base URL for your project */
-  // For github.io type URLs, you would set the url and baseUrl like:
-  //   url: 'https://facebook.github.io',
-  //   baseUrl: '/test-site/',
-
-  // Used for publishing and more
+  baseUrl: '/', 
   projectName: 'grammaire-yiddish',
   organizationName: 'MCY',
   // For top-level user or org sites, the organization is still the same.
@@ -118,13 +113,7 @@ const siteConfig = {
 
   docsSideNavCollapsible: true,
 
-  /* algolia: {
-    apiKey: 'df911827f57186493251bc92906020da',
-    indexName: 'docsearch',
-    placeholder: 'Rechercher'
-  } */
+  //docsUrl: "",
 };
-
-  
 
 module.exports = siteConfig;
