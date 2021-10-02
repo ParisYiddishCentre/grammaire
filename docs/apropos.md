@@ -9,7 +9,7 @@ hide_title: true
 
 L’auteur s’est appuyé pour l’essentiel sur les ouvrages suivants :
 
-Yudl Mark, *Gramatik fun der yidisher klal-shprakh*, New York : Kultur-Kongres, 1978.
+Yudl Mark, *Gramatik fun der yidisher klal-shprakh*, New York : Kultur-Kongres, 1978
 
 <br>
 <div class="separator"></div>
